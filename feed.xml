@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Clouty Skies Research Institute</title>
+    <link href="https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/feed.xml" rel="self" />
+    <link href="https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git" />
+    <updated>2025-12-04T23:20:39-08:00</updated>
+    <author>
+        <name>Clouty Skies</name>
+    </author>
+    <id>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git</id>
+
+    <entry>
+        <title>Introducing the Clouty Skies Research Institute</title>
+        <author>
+            <name>Clouty Skies</name>
+        </author>
+        <link href="https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/introducing-the-clouty-skies-research-institute/"/>
+        <id>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/introducing-the-clouty-skies-research-institute/</id>
+
+        <updated>2025-12-04T23:20:39-08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Clouty Skies Research Institute",
+    "description": "",
+    "home_page_url": "https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git",
+    "feed_url": "https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Clouty Skies"
+    },
+    "items": [
+        {
+            "id": "https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/introducing-the-clouty-skies-research-institute/",
+            "url": "https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/introducing-the-clouty-skies-research-institute/",
+            "title": "Introducing the Clouty Skies Research Institute",
+            "author": {
+                "name": "Clouty Skies"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-04T23:20:39-08:00",
+            "date_modified": "2025-12-04T23:20:39-08:00"
+        }
+    ]
+}
