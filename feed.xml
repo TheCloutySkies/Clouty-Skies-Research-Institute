@@ -3,14 +3,14 @@
     <title>Clouty Skies Research Institute</title>
     <link href="https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/feed.xml" rel="self" />
     <link href="https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git" />
-    <updated>2025-12-05T00:24:53-08:00</updated>
+    <updated>2025-12-05T02:14:20-08:00</updated>
     <author>
         <name>Clouty Skies</name>
     </author>
     <id>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git</id>
 
     <entry>
-        <title>What is the best Cream Soda?</title>
+        <title>What is The Best Cream Soda?</title>
         <author>
             <name>Clouty Skies</name>
         </author>
@@ -18,8 +18,372 @@
         <id>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/what-is-the-best-cream-soda/</id>
 
         <updated>2025-12-05T00:24:53-08:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary type="html">
+                <![CDATA[
+                    Introduction and Methodology This academic dissertation provides a thorough breakdown and analysis of the data we collected under Project Cream, an&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3><strong>Introduction and Methodology</strong></h3>
+<p>This academic dissertation provides a thorough breakdown and analysis of the data we collected under <strong>Project Cream</strong>, an unbiased study conducted by the Clouty Skies Research Institute to objectively evaluate the performance and yumminess of various cream soda brands. The study utilized an eight-point standardized matrix, with each metric weighted equally (maximum score of 5 points), resulting in a potential maximum overall score of 40 points.</p>
+<p>The primary objective was to move beyond subjective consumer preference by quantifying the sensory, experiential, and economic factors influencing perceived quality. The eight metrics were: <strong>Creaminess, Overall Taste, Smoothness, Design, Opening Experience, Ingredients, Price,</strong> and <strong>Availability</strong>.</p>
+<p>This analysis integrates the internal scoring data with external market data on typical <strong>Ingredients</strong> and <strong>Average Price</strong> to establish a comprehensive correlation between formulation, cost, and overall performance.</p>
+<hr>
+<h3><strong>Results</strong></h3>
+<p>The 13 brands analyzed can be segmented into three distinct categories based on their formulation and market positioning.</p>
+<p>1) <strong>Premium Traditional/Artisanal</strong> </p>
+<p>2) <strong>Mass Market/Private Label, Economy</strong> </p>
+<p>3) <strong>Functional/Prebiotic/Zero-Sugar Alternatives</strong></p>
+<table>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Brand</th>
+<th>Category</th>
+<th>Total Score (Max 40)</th>
+<th>Key Sweetener/Functional Ingredient</th>
+<th>Avg. Price Range (Per 12oz unit)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1</strong></td>
+<td><strong>Sprecher’s</strong></td>
+<td>Premium Traditional</td>
+<td><strong>31.0</strong></td>
+<td>Real Wisconsin Honey, Cane Sugar</td>
+<td>∼$1.67−$3.59</td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td><strong>IBC</strong></td>
+<td>Mass Market/Traditional</td>
+<td><strong>30.0</strong></td>
+<td>High Fructose Corn Syrup (HFCS)</td>
+<td>∼$1.05−$1.25 (4-pack price)</td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td><strong>Great Value</strong></td>
+<td>Private Label/Economy</td>
+<td><strong>28.0</strong></td>
+<td>High Fructose Corn Syrup (HFCS)</td>
+<td>∼$0.40−$0.60 (12-pack price)</td>
+</tr>
+<tr>
+<td>4</td>
+<td>A&amp;W</td>
+<td>Mass Market/Traditional</td>
+<td>25.0</td>
+<td>High Fructose Corn Syrup (HFCS)</td>
+<td>∼$0.92 (12-pack price)</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Jones</td>
+<td>Mass Market/Artisanal</td>
+<td>25.0</td>
+<td>Inverted Cane Sugar</td>
+<td>∼$1.67−$3.59</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Nixie</td>
+<td>Functional/Organic</td>
+<td>20.0</td>
+<td>Organic Flavors/Zero Sugar</td>
+<td>∼$2.00−$2.49</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Olipop</td>
+<td>Functional/Prebiotic</td>
+<td>20.0</td>
+<td>Stevia, Cassava Root Syrup, Inulin Fiber</td>
+<td>∼$2.25−$2.38</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Poppi</td>
+<td>Functional/Prebiotic</td>
+<td>19.5</td>
+<td>Organic Cane Sugar, Apple Cider Vinegar, Stevia</td>
+<td>∼$2.00−$2.49</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Signature</td>
+<td>Private Label/Economy</td>
+<td>17.5</td>
+<td>High Fructose Corn Syrup (HFCS)</td>
+<td>∼$0.42 (12-pack price)</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Zevia</td>
+<td>Zero-Sugar Alternative</td>
+<td>15.0</td>
+<td>Stevia Leaf Extract</td>
+<td>∼$0.92 (12-pack price)</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Teddy’s</td>
+<td>Mass Market/Traditional</td>
+<td>13.5</td>
+<td>High Fructose Corn Syrup (HFCS)</td>
+<td>∼$1.00−$1.50(Estimated)</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Popwell</td>
+<td>Functional/Prebiotic</td>
+<td>12.0</td>
+<td>High Fructose Corn Syrup (HFCS), Caffeine</td>
+<td>∼$1.67</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Cove</td>
+<td>Functional/Prebiotic</td>
+<td>10.0</td>
+<td>Stevia, Organic Ingredients (Estimated)</td>
+<td>∼$1.50−$2.00(Estimated)</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p>Project Cream successfully quantified the trade-off inherent in the contemporary cream soda market.</p>
+<p><strong>Primary Findings:</strong></p>
+<ul>
+<li><strong>Sensory Dominance of Caloric Sweeteners:</strong> Superior sensory experiences (Creaminess, Smoothness, Taste) are overwhelmingly linked to the use of traditional, high-caloric sweeteners such as <strong>cane sugar or honey</strong> (Sprecher’s, IBC).</li>
+<li><strong>The Functional Barrier:</strong> Functional and zero-calorie alternatives (Poppi, Zevia, Cove) consistently achieve high marks for "Ingredients" but fail dramatically in the execution of the "Cream Soda" profile, demonstrating that current natural sweetener and functional ingredient technology is unable to replicate the complex textural and flavor properties of the classic beverage. In essence, it's pointless to try and reinvent the wheel.</li>
+</ul>
+<h1>Raw Data</h1>
+<table border="0" cellspacing="0"><colgroup width="184"></colgroup> <colgroup width="139"></colgroup> <colgroup width="156"></colgroup> <colgroup span="11" width="139"></colgroup>
+<tbody>
+<tr>
+<td align="left" valign="bottom" height="31" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;(Out of 5)&quot;}"><strong>(Out of 5)</strong></td>
+<td align="left" valign="bottom" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;A&amp;W&quot;}"><strong><span style="font-size: medium;">A&amp;W</span></strong></td>
+<td align="left" valign="bottom" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Great Value&quot;}"><strong><span style="font-size: medium;">Great Value</span></strong></td>
+<td align="left" valign="bottom" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Signature&quot;}"><strong><span style="font-size: medium;">Signature</span></strong></td>
+<td align="left" valign="bottom" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Sprecher’s&quot;}"><strong><span style="font-size: medium;">Sprecher’s</span></strong></td>
+<td align="left" valign="bottom" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Jones&quot;}"><strong><span style="font-size: medium;">Jones</span></strong></td>
+<td align="left" valign="bottom" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Poppi&quot;}"><strong><span style="font-size: medium;">Poppi</span></strong></td>
+<td align="left" valign="bottom" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Popwell&quot;}"><strong><span style="font-size: medium;">Popwell</span></strong></td>
+<td align="left" valign="bottom" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Nixie&quot;}"><strong><span style="font-size: medium;">Nixie</span></strong></td>
+<td align="left" valign="bottom" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Zevia&quot;}"><strong><span style="font-size: medium;">Zevia</span></strong></td>
+<td align="left" valign="bottom" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;IBC&quot;}"><strong><span style="font-size: medium;">IBC</span></strong></td>
+<td align="left" valign="bottom" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Teddy’s&quot;}"><strong><span style="font-size: medium;">Teddy’s</span></strong></td>
+<td align="left" valign="bottom" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Cove&quot;}"><strong><span style="font-size: medium;">Cove</span></strong></td>
+<td align="left" valign="bottom" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Olipop&quot;}"><strong><span style="font-size: medium;">Olipop</span></strong></td>
+</tr>
+<tr>
+<td align="left" valign="bottom" height="31" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Creaminess&quot;}"><strong><span style="font-size: medium;">Creaminess</span></strong></td>
+<td align="right" valign="bottom">3</td>
+<td align="right" valign="bottom">4</td>
+<td align="right" valign="bottom">1</td>
+<td align="right" valign="bottom">5</td>
+<td align="right" valign="bottom">4</td>
+<td align="right" valign="bottom">0</td>
+<td align="right" valign="bottom">0</td>
+<td align="right" valign="bottom">3</td>
+<td align="right" valign="bottom">0</td>
+<td align="right" valign="bottom">4.5</td>
+<td align="right" valign="bottom">1</td>
+<td align="right" valign="bottom">0</td>
+<td align="right" valign="bottom">1</td>
+</tr>
+<tr>
+<td align="left" valign="bottom" height="31" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Overall Taste&quot;}"><strong><span style="font-size: medium;">Overall Taste</span></strong></td>
+<td align="right" valign="bottom">3</td>
+<td align="right" valign="bottom">4.5</td>
+<td align="right" valign="bottom">1</td>
+<td align="right" valign="bottom">5</td>
+<td align="right" valign="bottom">3.5</td>
+<td align="right" valign="bottom">0</td>
+<td align="right" valign="bottom">0</td>
+<td align="right" valign="bottom">3.5</td>
+<td align="right" valign="bottom">1</td>
+<td align="right" valign="bottom">4</td>
+<td align="right" valign="bottom">2</td>
+<td align="right" valign="bottom">0</td>
+<td align="right" valign="bottom">1.5</td>
+</tr>
+<tr>
+<td align="left" valign="bottom" height="31" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Smoothness&quot;}"><strong><span style="font-size: medium;">Smoothness</span></strong></td>
+<td align="right" valign="bottom">3</td>
+<td align="right" valign="bottom">4</td>
+<td align="right" valign="bottom">1</td>
+<td align="right" valign="bottom">5</td>
+<td align="right" valign="bottom">3.5</td>
+<td align="right" valign="bottom">1</td>
+<td align="right" valign="bottom">0</td>
+<td align="right" valign="bottom">2</td>
+<td align="right" valign="bottom">0</td>
+<td align="right" valign="bottom">5</td>
+<td align="right" valign="bottom">1</td>
+<td align="right" valign="bottom">0</td>
+<td align="right" valign="bottom">1</td>
+</tr>
+<tr>
+<td align="left" valign="bottom" height="31" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Design&quot;}"><strong><span style="font-size: medium;">Design</span></strong></td>
+<td align="right" valign="bottom">5</td>
+<td align="right" valign="bottom">3</td>
+<td align="right" valign="bottom">0</td>
+<td align="right" valign="bottom">4</td>
+<td align="right" valign="bottom">2</td>
+<td align="right" valign="bottom">4</td>
+<td align="right" valign="bottom">3</td>
+<td align="right" valign="bottom">1</td>
+<td align="right" valign="bottom">2</td>
+<td align="right" valign="bottom">2.5</td>
+<td align="right" valign="bottom">2</td>
+<td align="right" valign="bottom">0</td>
+<td align="right" valign="bottom">4</td>
+</tr>
+<tr>
+<td align="left" valign="bottom" height="60" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Opening Experience&quot;}"><strong><span style="font-size: medium;">Opening Experience</span></strong></td>
+<td align="right" valign="bottom">2</td>
+<td align="right" valign="bottom">4</td>
+<td align="right" valign="bottom">5</td>
+<td align="right" valign="bottom">3</td>
+<td align="right" valign="bottom">3</td>
+<td align="right" valign="bottom">3</td>
+<td align="right" valign="bottom">2</td>
+<td align="right" valign="bottom">2.5</td>
+<td align="right" valign="bottom">2</td>
+<td align="right" valign="bottom">3</td>
+<td align="right" valign="bottom">1</td>
+<td align="right" valign="bottom">2</td>
+<td align="right" valign="bottom">3</td>
+</tr>
+<tr>
+<td align="left" valign="bottom" height="31" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Ingredients&quot;}"><strong><span style="font-size: medium;">Ingredients</span></strong></td>
+<td align="right" valign="bottom">0</td>
+<td align="right" valign="bottom">0</td>
+<td align="right" valign="bottom">2</td>
+<td align="right" valign="bottom">4</td>
+<td align="right" valign="bottom">5</td>
+<td align="right" valign="bottom">5</td>
+<td align="right" valign="bottom">3.5</td>
+<td align="right" valign="bottom">5</td>
+<td align="right" valign="bottom">5</td>
+<td align="right" valign="bottom">4</td>
+<td align="right" valign="bottom">1.5</td>
+<td align="right" valign="bottom">5</td>
+<td align="right" valign="bottom">3</td>
+</tr>
+<tr>
+<td align="left" valign="bottom" height="31" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Price&quot;}"><strong><span style="font-size: medium;">Price</span></strong></td>
+<td align="right" valign="bottom">4</td>
+<td align="right" valign="bottom">5</td>
+<td align="right" valign="bottom">5</td>
+<td align="right" valign="bottom">2</td>
+<td align="right" valign="bottom">2</td>
+<td align="right" valign="bottom">2.5</td>
+<td align="right" valign="bottom">2.5</td>
+<td align="right" valign="bottom">2</td>
+<td align="right" valign="bottom">3</td>
+<td align="right" valign="bottom">3</td>
+<td align="right" valign="bottom">4</td>
+<td align="right" valign="bottom">2</td>
+<td align="right" valign="bottom">2</td>
+</tr>
+<tr>
+<td align="left" valign="bottom" height="31" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Availability&quot;}"><strong><span style="font-size: medium;">Availability</span></strong></td>
+<td align="right" valign="bottom">5</td>
+<td align="right" valign="bottom">3.5</td>
+<td align="right" valign="bottom">2.5</td>
+<td align="right" valign="bottom">3</td>
+<td align="right" valign="bottom">2</td>
+<td align="right" valign="bottom">4</td>
+<td align="right" valign="bottom">1</td>
+<td align="right" valign="bottom">1</td>
+<td align="right" valign="bottom">2</td>
+<td align="right" valign="bottom">4</td>
+<td align="right" valign="bottom">1</td>
+<td align="right" valign="bottom">1</td>
+<td align="right" valign="bottom">4.5</td>
+</tr>
+<tr>
+<td align="left" valign="bottom" height="26" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Total:&quot;}"><strong><u>Total:</u></strong></td>
+<td align="right" valign="bottom" data-sheets-formula="=SUM(R[-8]C:R[-1]C)"><strong><u>25</u></strong></td>
+<td align="right" valign="bottom" data-sheets-formula="=SUM(R[-8]C:R[-1]C)"><strong><u>28</u></strong></td>
+<td align="right" valign="bottom" data-sheets-formula="=SUM(R[-8]C:R[-1]C)"><strong><u>17.5</u></strong></td>
+<td align="right" valign="bottom" data-sheets-formula="=SUM(R[-8]C:R[-1]C)"><strong><u>31</u></strong></td>
+<td align="right" valign="bottom" data-sheets-formula="=SUM(R[-8]C:R[-1]C)"><strong><u>25</u></strong></td>
+<td align="right" valign="bottom" data-sheets-formula="=SUM(R[-8]C:R[-1]C)"><strong><u>19.5</u></strong></td>
+<td align="right" valign="bottom" data-sheets-formula="=SUM(R[-8]C:R[-1]C)"><strong><u>12</u></strong></td>
+<td align="right" valign="bottom" data-sheets-formula="=SUM(R[-8]C:R[-1]C)"><strong><u>20</u></strong></td>
+<td align="right" valign="bottom" data-sheets-formula="=SUM(R[-8]C:R[-1]C)"><strong><u>15</u></strong></td>
+<td align="right" valign="bottom" data-sheets-formula="=SUM(R[-8]C:R[-1]C)"><strong><u>30</u></strong></td>
+<td align="right" valign="bottom" data-sheets-formula="=SUM(R[-8]C:R[-1]C)"><strong><u>13.5</u></strong></td>
+<td align="right" valign="bottom" data-sheets-formula="=SUM(R[-8]C:R[-1]C)"><strong><u>10</u></strong></td>
+<td align="right" valign="bottom" data-sheets-formula="=SUM(R[-8]C:R[-1]C)"><strong><u>20</u></strong></td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellspacing="0"><colgroup width="139"></colgroup> <colgroup width="156"></colgroup>
+<tbody>
+<tr>
+<td align="left" valign="bottom" height="26" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Sprecher’s&quot;}"><strong>Sprecher’s</strong></td>
+<td align="right" valign="bottom">31</td>
+</tr>
+<tr>
+<td align="left" valign="bottom" height="26" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;IBC&quot;}"><strong>IBC</strong></td>
+<td align="right" valign="bottom">30</td>
+</tr>
+<tr>
+<td align="left" valign="bottom" height="26" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Great Value&quot;}"><strong>Great Value</strong></td>
+<td align="right" valign="bottom">28</td>
+</tr>
+<tr>
+<td align="left" valign="bottom" height="26" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;A&amp;W&quot;}"><strong>A&amp;W</strong></td>
+<td align="right" valign="bottom">25</td>
+</tr>
+<tr>
+<td align="left" valign="bottom" height="26" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Jones&quot;}"><strong>Jones</strong></td>
+<td align="right" valign="bottom">25</td>
+</tr>
+<tr>
+<td align="left" valign="bottom" height="26" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Nixie&quot;}"><strong>Nixie</strong></td>
+<td align="right" valign="bottom">20</td>
+</tr>
+<tr>
+<td align="left" valign="bottom" height="26" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Olipop&quot;}"><strong>Olipop</strong></td>
+<td align="right" valign="bottom">20</td>
+</tr>
+<tr>
+<td align="left" valign="bottom" height="26" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Poppi&quot;}"><strong>Poppi</strong></td>
+<td align="right" valign="bottom">19.5</td>
+</tr>
+<tr>
+<td align="left" valign="bottom" height="26" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Signature&quot;}"><strong>Signature</strong></td>
+<td align="right" valign="bottom">17.5</td>
+</tr>
+<tr>
+<td align="left" valign="bottom" height="26" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Zevia&quot;}"><strong>Zevia</strong></td>
+<td align="right" valign="bottom">15</td>
+</tr>
+<tr>
+<td align="left" valign="bottom" height="26" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Teddy’s&quot;}"><strong>Teddy’s</strong></td>
+<td align="right" valign="bottom">13.5</td>
+</tr>
+<tr>
+<td align="left" valign="bottom" height="26" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Popwell&quot;}"><strong>Popwell</strong></td>
+<td align="right" valign="bottom">12</td>
+</tr>
+<tr>
+<td align="left" valign="bottom" height="26" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Cove&quot;}"><strong>Cove</strong></td>
+<td align="right" valign="bottom">10</td>
+</tr>
+</tbody>
+</table>
+<p><!-- notionvc: 8aebec11-ec0d-485a-bc35-7ee894e96cc9 --></p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>The Official CRSI Wigga-Meter</title>
@@ -28,41 +392,44 @@
         </author>
         <link href="https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/the-official-crsi-wigga-meter/"/>
         <id>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/the-official-crsi-wigga-meter/</id>
+            <category term="Project Wigga-Meter"/>
 
         <updated>2025-12-05T00:12:25-08:00</updated>
             <summary type="html">
                 <![CDATA[
-                    What is the Wigga-Meter The Wigga-Meter is a conceptual framework designed to quantify and analyze the WiggerFactor: a probabilistic metric&hellip;
+                    What is the Wigga-Meter? The Wigga-Meter is a conceptual framework designed to quantify and analyze the WiggerFactor: a probabilistic metric&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h1>What is the Wigga-Meter</h1>
-<p><span style="color: #ffffff;">The <strong>Wigga-Meter</strong> is a conceptual framework designed to quantify and analyze the <strong><span class="s1"><i>WiggerFactor</i></span></strong>: a probabilistic metric assessing the likelihood of encountering individuals exhibiting Wigger-like traits and behaviors based on environmental and occupational factors.</span></p>
+                <h1>What is the Wigga-Meter?</h1>
+<p>The <strong>Wigga-Meter</strong> is a conceptual framework designed to quantify and analyze the <em><strong>WiggerFactor</strong></em>: a probabilistic metric assessing the likelihood of encountering individuals exhibiting Wigger-like traits and behaviors based on environmental and occupational factors.</p>
 <h2>How it Works</h2>
-<p class="p1"><span style="color: #ffffff;">The <strong><span class="s1">Wigga-Meter</span> </strong>employs a standardized 1-25 scale to quantify the relative intensity of the <strong><span class="s2"><i>WiggerFactor</i></span></strong> in observable subjects. Each categorical data point gets a max of 5 points with a 6 point bonus for extremely common factors. Approximately 30 jobs/locations were studied.</span></p>
-<h2 class="p1">Data Points</h2>
-<p class="p1"><strong>NWAL (Natural Wigger Appearance Likelihood)</strong></p>
+<p>The <strong>Wigga-Meter</strong> employs a standardized 1-25 scale to quantify the relative intensity of the <em><strong>WiggerFactor</strong></em> in observable subjects. Each categorical data point gets a max of 5 points with a 6 point bonus for extremely common factors. Approximately 30 jobs/locations were studied.</p>
+<h2>Data Points</h2>
+<p><strong>NWAL (Natural Wigger Appearance Likelihood)</strong></p>
 <ul>
-<li class="p2"><span style="color: #ffffff;">Quantifies the likelihood of an organic encounter in a public setting.</span></li>
+<li>Quantifies the likelihood of an organic encounter in a public setting.</li>
 </ul>
-<p class="p1"><strong>WEC (Wigger Employment Chance) </strong></p>
+<p><strong>WEC (Wigger Employment Chance)</strong></p>
 <ul>
-<li class="p3"><span style="color: #ffffff;"><span class="s1">Qu</span>antifies the likelihood of a wigger individual being employed within or affiliated with the specified occupation or setting.</span></li>
+<li>Quantifies the likelihood of a wigger individual being employed within or affiliated with the specified occupation or setting.</li>
 </ul>
-<p class="p1"><strong>BSA (Bluetooth Speaker Allowance) </strong></p>
+<p><strong>BSA (Bluetooth Speaker Allowance)</strong></p>
 <ul>
-<li class="p2"><span style="color: #ffffff;">Measures the social and situational tolerance for an individual to play music publicly via a portable Bluetooth speaker within the specified setting.</span></li>
+<li>Measures the social and situational tolerance for an individual to play music publicly via a portable Bluetooth speaker within the specified setting.</li>
 </ul>
-<p class="p1"><strong>FFP (Free Food/Drink Probability) </strong></p>
+<p><strong>FFP (Free Food/Drink Probability)</strong></p>
 <ul>
-<li class="p2"><span style="color: #ffffff;">Estimates the likelihood of complimentary consumables at a given location, which correspondingly elevates the probability of wigger presence and encounter frequency.</span></li>
+<li>Estimates the likelihood of complimentary consumables at a given location, which correspondingly elevates the probability of wigger presence and encounter frequency.</li>
 </ul>
-<p class="p1"><strong>SB (Stereotype Bonus) </strong></p>
+<p><strong>SB (Stereotype Bonus)</strong></p>
 <ul>
-<li class="p2"><span style="color: #ffffff;">Assigns additional weight to locations that reinforce or align with established wigger stereotypes.</span></li>
+<li>Assigns additional weight to locations that reinforce or align with established wigger stereotypes.</li>
 </ul>
 <p> </p>
+<figure class="post__image"><a href="https://youtu.be/1C6Xo03GQJk?si=CRhGU99dTRUaBXMt" target="_blank" rel="noopener noreferrer">Wigga-Meter Overview Video</a><img loading="lazy"  src="https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/media/posts/8/WiggaMeterPresentation.pdf" alt=""></figure>
+<p><!-- notionvc: d0022fe1-3dbb-437c-b074-a4a974514732 --></p>
             ]]>
         </content>
     </entry>
