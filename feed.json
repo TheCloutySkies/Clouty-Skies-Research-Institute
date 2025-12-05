@@ -5,10 +5,37 @@
     "home_page_url": "https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git",
     "feed_url": "https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/feed.json",
     "user_comment": "",
+    "icon": "https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/media/website/Untitled.png",
     "author": {
         "name": "Clouty Skies"
     },
     "items": [
+        {
+            "id": "https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/what-is-the-best-cream-soda/",
+            "url": "https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/what-is-the-best-cream-soda/",
+            "title": "What is the best Cream Soda?",
+            "author": {
+                "name": "Clouty Skies"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-05T00:24:53-08:00",
+            "date_modified": "2025-12-05T00:24:53-08:00"
+        },
+        {
+            "id": "https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/the-official-crsi-wigga-meter/",
+            "url": "https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/the-official-crsi-wigga-meter/",
+            "title": "The Official CRSI Wigga-Meter",
+            "summary": "What is the Wigga-Meter The Wigga-Meter is a conceptual framework designed to quantify and analyze the WiggerFactor: a probabilistic metric&hellip;",
+            "content_html": "<h1>What is the Wigga-Meter</h1>\n<p><span style=\"color: #ffffff;\">The <strong>Wigga-Meter</strong> is a conceptual framework designed to quantify and analyze the <strong><span class=\"s1\"><i>WiggerFactor</i></span></strong>: a probabilistic metric assessing the likelihood of encountering individuals exhibiting Wigger-like traits and behaviors based on environmental and occupational factors.</span></p>\n<h2>How it Works</h2>\n<p class=\"p1\"><span style=\"color: #ffffff;\">The <strong><span class=\"s1\">Wigga-Meter</span> </strong>employs a standardized 1-25 scale to quantify the relative intensity of the <strong><span class=\"s2\"><i>WiggerFactor</i></span></strong> in observable subjects. Each categorical data point gets a max of 5 points with a 6 point bonus for extremely common factors. Approximately 30 jobs/locations were studied.</span></p>\n<h2 class=\"p1\">Data Points</h2>\n<p class=\"p1\"><strong>NWAL (Natural Wigger Appearance Likelihood)</strong></p>\n<ul>\n<li class=\"p2\"><span style=\"color: #ffffff;\">Quantifies the likelihood of an organic encounter in a public setting.</span></li>\n</ul>\n<p class=\"p1\"><strong>WEC (Wigger Employment Chance) </strong></p>\n<ul>\n<li class=\"p3\"><span style=\"color: #ffffff;\"><span class=\"s1\">Qu</span>antifies the likelihood of a wigger individual being employed within or affiliated with the specified occupation or setting.</span></li>\n</ul>\n<p class=\"p1\"><strong>BSA (Bluetooth Speaker Allowance) </strong></p>\n<ul>\n<li class=\"p2\"><span style=\"color: #ffffff;\">Measures the social and situational tolerance for an individual to play music publicly via a portable Bluetooth speaker within the specified setting.</span></li>\n</ul>\n<p class=\"p1\"><strong>FFP (Free Food/Drink Probability) </strong></p>\n<ul>\n<li class=\"p2\"><span style=\"color: #ffffff;\">Estimates the likelihood of complimentary consumables at a given location, which correspondingly elevates the probability of wigger presence and encounter frequency.</span></li>\n</ul>\n<p class=\"p1\"><strong>SB (Stereotype Bonus) </strong></p>\n<ul>\n<li class=\"p2\"><span style=\"color: #ffffff;\">Assigns additional weight to locations that reinforce or align with established wigger stereotypes.</span></li>\n</ul>\n<p> </p>",
+            "author": {
+                "name": "Clouty Skies"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-05T00:12:25-08:00",
+            "date_modified": "2025-12-05T00:12:25-08:00"
+        },
         {
             "id": "https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/introducing-the-clouty-skies-research-institute/",
             "url": "https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/introducing-the-clouty-skies-research-institute/",
