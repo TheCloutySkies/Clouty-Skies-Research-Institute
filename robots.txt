@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/sitemap.xml
+Sitemap: https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute/sitemap.xml

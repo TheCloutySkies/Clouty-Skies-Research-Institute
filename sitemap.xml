@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/</loc>
+<loc>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute/</loc>
 </url>
 <url>
-<loc>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/about-the-author/</loc>
+<loc>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute/about-the-author/</loc>
 <lastmod>2025-12-05T00:51:10-08:00</lastmod>
 </url>
 <url>
-<loc>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/all-posts/</loc>
+<loc>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute/all-posts/</loc>
 <lastmod>2025-12-04T23:41:55-08:00</lastmod>
 </url>
 <url>
-<loc>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/csri-homepage/</loc>
+<loc>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute/csri-homepage/</loc>
 <lastmod>2025-12-04T23:28:05-08:00</lastmod>
 </url>
 <url>
-<loc>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/data/</loc>
+<loc>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute/data/</loc>
 <lastmod>2025-12-05T01:30:41-08:00</lastmod>
 </url>
 <url>
-<loc>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/introducing-the-clouty-skies-research-institute/</loc>
+<loc>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute/introducing-the-clouty-skies-research-institute/</loc>
 <lastmod>2025-12-04T23:20:39-08:00</lastmod>
 </url>
 <url>
-<loc>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/projects/</loc>
+<loc>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute/projects/</loc>
 <lastmod>2025-12-05T01:41:18-08:00</lastmod>
 </url>
 <url>
-<loc>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/the-official-crsi-wigga-meter/</loc>
+<loc>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute/the-official-crsi-wigga-meter/</loc>
 <lastmod>2025-12-05T02:14:20-08:00</lastmod>
 <image:image>
-<image:loc>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/media/posts/8/WiggaMeterPresentation.pdf</image:loc>
+<image:loc>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute/media/posts/8/WiggaMeterPresentation.pdf</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute.git/what-is-the-best-cream-soda/</loc>
+<loc>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute/what-is-the-best-cream-soda/</loc>
 <lastmod>2025-12-05T02:09:39-08:00</lastmod>
 </url>
 </urlset>
