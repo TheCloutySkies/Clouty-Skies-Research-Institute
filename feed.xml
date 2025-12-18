@@ -3,12 +3,36 @@
     <title>Clouty Skies Research Institute</title>
     <link href="https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute/feed.xml" rel="self" />
     <link href="https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute" />
-    <updated>2025-12-05T02:14:20-08:00</updated>
+    <updated>2025-12-17T19:26:49-08:00</updated>
     <author>
         <name>Clouty Skies</name>
     </author>
     <id>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute</id>
 
+    <entry>
+        <title>(Upcoming) What is the Best Root Beer?</title>
+        <author>
+            <name>Clouty Skies</name>
+        </author>
+        <link href="https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute/upcoming-what-is-the-best-root-beer/"/>
+        <id>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute/upcoming-what-is-the-best-root-beer/</id>
+            <category term="Research"/>
+            <category term="In Progress"/>
+            <category term="CSRI"/>
+
+        <updated>2025-12-17T19:05:46-08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Today I'm proud to introduce Project Root. In the continued effort within the Clouty Skies Research Institute to determine the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Today I'm proud to introduce Project Root. In the continued effort within the Clouty Skies Research Institute to determine the best soda within a given flavor profile we have decided to move onto root beer as our next study candidate. This time around we have gathered 17 samples and will be using the same standardized metrics we used in Project Cream, the eight-point standardized matrix, with each metric weighted equally (maximum score of 5 points): <strong>Creaminess, Overall Taste, Smoothness, Design, Opening Experience, Ingredients, Price,</strong> and <strong>Availability</strong>. </p>
+<p>The Brands that we will be surveying this time around will be, A&amp;W, Great Value, Signature Select, Sprecher's (the previous top scorer), Jones, Poppi, Shasta, Nixie, Zevia, IBC, Teddy's, Cove (the previous lowest scorer), OLIPOP, Alive Mushroom Elixir Root Beer, River City, Virgil's, and Harvey Weinhard's.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>What is The Best Cream Soda?</title>
         <author>
@@ -16,6 +40,9 @@
         </author>
         <link href="https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute/what-is-the-best-cream-soda/"/>
         <id>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute/what-is-the-best-cream-soda/</id>
+            <category term="Research"/>
+            <category term="Project Cream"/>
+            <category term="CSRI"/>
 
         <updated>2025-12-05T00:24:53-08:00</updated>
             <summary type="html">
@@ -442,7 +469,28 @@
         <id>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute/introducing-the-clouty-skies-research-institute/</id>
 
         <updated>2025-12-04T23:20:39-08:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary type="html">
+                <![CDATA[
+                    About the Clouty Skies Research Institute The Clouty Skies Research Institute is a data-driven platform dedicated to publishing structured, transparent&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 data-path-to-node="3">About the Clouty Skies Research Institute</h2>
+<p data-path-to-node="4">The Clouty Skies Research Institute is a data-driven platform dedicated to publishing structured, transparent research on consumer products and other areas of interest. We specialize in exploring the cultural and consumer intersections that mainstream academics often overlook.<strong> While traditional institutions focus on theoretical abstractions, CSRI addresses interesting and engaging topics for everyday people</strong>, providing tangible data they can reference in their daily lives.</p>
+<p data-path-to-node="5">Built to complement the work we do in videos and social media, the Institute website provides a centralized place to explore full breakdowns, standardized metrics, and datasets derived from systematic evaluation projects. Our methodology prioritizes "Real-World Utility," ensuring that every data point serves a practical purpose for our audience.</p>
+<h3 data-path-to-node="6">Current Research Pillars</h3>
+<ul data-path-to-node="7">
+<li>
+<p data-path-to-node="7,0,0"><strong><a href="https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute/what-is-the-best-cream-soda/" target="_blank" rel="noopener noreferrer">Project Cream</a>:</strong> A comprehensive sensory and market analysis where multiple cream soda brands were scored using consistent, multi-variable criteria to determine peak consumer value.</p>
+</li>
+<li>
+<p data-path-to-node="7,1,0"><strong><a href="https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute/the-official-crsi-wigga-meter/" target="_blank" rel="noopener noreferrer">The Wigga-Meter</a>:</strong> An exploratory sociological framework designed to quantify encounter probabilities within specific environments. This project utilizes our proprietary <em><strong>WiggerFactor</strong></em> metrics to provide a standardized scale for demographic and environmental analysis.</p>
+</li>
+</ul>
+<h3 data-path-to-node="8">Our Goal</h3>
+<p data-path-to-node="9">The site is organized to make research accessible and verifiable, with sections for posts, projects, data, and background on our methodology. Our goal is to offer a resource where viewers and readers can dive deeper into the data behind the findings, follow ongoing research efforts, and engage with the process behind each project. By bridging the gap between rigorous data analysis and public engagement, we provide a new standard for independent research.</p>
+            ]]>
+        </content>
     </entry>
 </feed>
