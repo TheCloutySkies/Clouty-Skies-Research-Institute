@@ -3,7 +3,7 @@
     <title>Clouty Skies Research Institute</title>
     <link href="https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute/feed.xml" rel="self" />
     <link href="https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute" />
-    <updated>2025-12-26T23:07:40-08:00</updated>
+    <updated>2026-06-04T01:12:05-06:00</updated>
     <author>
         <name>Clouty Skies</name>
     </author>
@@ -20,7 +20,7 @@
             <category term="In Progress"/>
             <category term="CSRI"/>
 
-        <updated>2025-12-17T19:05:46-08:00</updated>
+        <updated>2025-12-17T20:05:46-07:00</updated>
             <summary type="html">
                 <![CDATA[
                     Today I’m proud to introduce Project Root. In the continued effort within the Clouty Skies Research Institute to determine the&hellip;
@@ -68,184 +68,165 @@
             <category term="Project Cream"/>
             <category term="CSRI"/>
 
-        <updated>2025-12-05T00:24:53-08:00</updated>
+        <updated>2025-12-05T01:24:53-07:00</updated>
             <summary type="html">
                 <![CDATA[
-                    { "imports": { "lucide-react": "https://esm.sh/lucide-react@^0.562.0", "framer-motion": "https://esm.sh/framer-motion@^12.23.26", "@react-three/fiber": "https://esm.sh/@react-three/fiber@^9.4.2", "@react-three/drei": "https://esm.sh/@react-three/drei@^10.7.7", "three": "https://esm.sh/three@^0.182.0", "vite": "https://esm.sh/vite@^7.3.0", "@vitejs/plugin-react": "https://esm.sh/@vitejs/plugin-react@^5.1.2", "react": "https://esm.sh/react@^19.2.3", "react-dom/":&hellip;
+                    Clouty Skies Research Institute Project Cream An objective, unbiased dissertation on the performance, physics, and yumminess of the modern cream&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p> </p>
-<!-- Tailwind CSS -->
-<p>
-<script src="https://cdn.tailwindcss.com"></script>
-</p>
-<!-- Icons -->
-<p>
-<script src="https://unpkg.com/lucide@latest"></script>
-</p>
-<!-- Fonts -->
-<p> </p>
-<!-- Custom Config -->
-<p>
-<script>
-      tailwind.config = {
-        theme: {
-          extend: {
-            fontFamily: {
-              serif: ['"Playfair Display"', 'serif'],
-              sans: ['"Inter"', 'sans-serif'],
-              mono: ['"Space Mono"', 'monospace'],
-            },
-            colors: {
-              cream: {
-                50: '#FFFCF5',
-                100: '#FFF8E1',
-                200: '#FFE0B2',
-                900: '#3E2723',
-              },
-              soda: {
-                light: '#D4AF37', // Gold
-                base: '#B8860B',  // Dark Gold
-                dark: '#4B3621',  // Dark Brown
-              }
-            }
-          }
-        }
-      }
-    </script>
-<script type="importmap">
-{
-  "imports": {
-    "lucide-react": "https://esm.sh/lucide-react@^0.562.0",
-    "framer-motion": "https://esm.sh/framer-motion@^12.23.26",
-    "@react-three/fiber": "https://esm.sh/@react-three/fiber@^9.4.2",
-    "@react-three/drei": "https://esm.sh/@react-three/drei@^10.7.7",
-    "three": "https://esm.sh/three@^0.182.0",
-    "vite": "https://esm.sh/vite@^7.3.0",
-    "@vitejs/plugin-react": "https://esm.sh/@vitejs/plugin-react@^5.1.2",
-    "react": "https://esm.sh/react@^19.2.3",
-    "react-dom/": "https://esm.sh/react-dom@^19.2.3/",
-    "react/": "https://esm.sh/react@^19.2.3/"
-  }
-}
-</script>
-</p>
-<!-- Hero Section --><header class="relative h-screen flex items-center justify-center overflow-hidden bg-gradient-to-b from-cream-50 via-cream-100 to-amber-50 text-soda-dark"><!-- Bubbles -->
+                <!-- Custom Animation & Bubble Styles --><!-- Hero Section --><header class="relative h-screen flex items-center justify-center overflow-hidden bg-gradient-to-b from-cream-50 via-cream-100 to-amber-50 text-soda-dark"><!-- Bubbles -->
 <div id="bubbles" class="bubble-container"></div>
 <div class="relative z-10 container mx-auto px-6 text-center">
 <div class="inline-block mb-6 px-4 py-1 border border-amber-200 bg-white/60 text-amber-700 text-xs tracking-[0.3em] uppercase font-bold rounded-full backdrop-blur-md shadow-sm">Clouty Skies Research Institute</div>
 <h1 class="font-serif text-6xl md:text-8xl lg:text-9xl font-bold leading-none mb-6 text-amber-600 drop-shadow-sm">Project<br><span class="text-soda-dark opacity-90 italic">Cream</span></h1>
 <div class="w-32 h-1 bg-gradient-to-r from-transparent via-amber-400 to-transparent mx-auto mb-8"> </div>
 <p class="max-w-2xl mx-auto text-lg md:text-xl text-stone-600 font-light leading-relaxed mb-12 tracking-wide">An objective, unbiased dissertation on the performance, physics, and yumminess of the modern cream soda landscape.</p>
-<div class="flex justify-center"><a href="#report" class="group flex flex-col items-center gap-2 text-sm font-bold text-amber-800/60 hover:text-amber-700 transition-colors cursor-pointer uppercase tracking-widest"> Access Report <i data-lucide="flask-conical"></i> </a></div>
+<div class="flex justify-center"><a href="#history" class="group flex flex-col items-center gap-2 text-sm font-bold text-amber-800/60 hover:text-amber-700 transition-colors cursor-pointer uppercase tracking-widest"> Access Report <i data-lucide="flask-conical" class="group-hover:translate-y-1 transition-transform"></i> </a></div>
 </div>
-</header><main id="report"><!-- Intro & Methodology -->
-<section class="py-24 bg-white relative">
+</header><main id="report"><!-- Historical Timeline Section -->
+<section id="history" class="py-24 bg-white border-t border-amber-100 relative overflow-hidden">
+<div class="container mx-auto px-6 max-w-4xl">
+<div class="text-center mb-20 animate-on-scroll"><span class="text-amber-600 font-bold tracking-widest text-xs uppercase">Historical Context</span>
+<h2 class="font-serif text-4xl md:text-5xl mt-2 text-soda-dark mb-6">A Brief History of Cream</h2>
+<p class="text-stone-600 text-lg">Before analyzing the modern landscape, one must understand the evolution of the vanilla-infused beverage.</p>
+</div>
+<div class="relative border-l-2 border-amber-300 ml-4 md:ml-1/2 md:left-1/2 md:-translate-x-1/2 space-y-12 pb-12"><!-- Timeline Event 1 -->
+<div class="relative animate-on-scroll flex flex-col md:flex-row items-start md:justify-end md:w-1/2 md:pr-12 pl-8 md:pl-0">
+<div class="absolute w-4 h-4 bg-amber-500 rounded-full timeline-dot -left-[9px] md:-right-[9px] md:left-auto top-1.5 z-10"> </div>
+<div class="bg-stone-50 p-6 rounded-xl border border-amber-100 shadow-sm md:text-right w-full"><span class="font-mono text-amber-700 font-bold text-lg">1852</span>
+<h3 class="font-serif text-xl font-bold text-soda-dark mt-1 mb-2">The First Patent</h3>
+<p class="text-sm text-stone-600 leading-relaxed">E.M. Howell patents the first written recipe for "cream soda." Unlike modern variants, this original concoction utilized water, sugar, tartaric acid, and egg whites to generate its signature creamy froth.</p>
+</div>
+</div>
+<!-- Timeline Event 2 -->
+<div class="relative animate-on-scroll delay-100 flex flex-col md:flex-row items-start md:w-1/2 md:ml-auto md:pl-12 pl-8">
+<div class="absolute w-4 h-4 bg-amber-500 rounded-full timeline-dot -left-[9px] top-1.5 z-10"> </div>
+<div class="bg-stone-50 p-6 rounded-xl border border-amber-100 shadow-sm w-full"><span class="font-mono text-amber-700 font-bold text-lg">1886</span>
+<h3 class="font-serif text-xl font-bold text-soda-dark mt-1 mb-2">The Gold Standard</h3>
+<p class="text-sm text-stone-600 leading-relaxed">Dr. Brown's introduces their iconic Cream Soda in New York. This sets the benchmark for the modern vanilla-heavy flavor profile that most traditional brands attempt to emulate today.</p>
+</div>
+</div>
+<!-- Timeline Event 3 -->
+<div class="relative animate-on-scroll flex flex-col md:flex-row items-start md:justify-end md:w-1/2 md:pr-12 pl-8 md:pl-0">
+<div class="absolute w-4 h-4 bg-amber-500 rounded-full timeline-dot -left-[9px] md:-right-[9px] md:left-auto top-1.5 z-10"> </div>
+<div class="bg-stone-50 p-6 rounded-xl border border-amber-100 shadow-sm md:text-right w-full"><span class="font-mono text-amber-700 font-bold text-lg">Mid-20th Century</span>
+<h3 class="font-serif text-xl font-bold text-soda-dark mt-1 mb-2">The Pink Divergence</h3>
+<p class="text-sm text-stone-600 leading-relaxed">Regional variants emerge, most notably the "Pink" or "Red" cream sodas popularized in the Midwest and Canada. These rely heavily on artificial coloring and often lean closer to bubblegum or cotton candy flavor profiles.</p>
+</div>
+</div>
+<!-- Timeline Event 4 -->
+<div class="relative animate-on-scroll delay-100 flex flex-col md:flex-row items-start md:w-1/2 md:ml-auto md:pl-12 pl-8">
+<div class="absolute w-4 h-4 bg-amber-500 rounded-full timeline-dot -left-[9px] top-1.5 z-10"> </div>
+<div class="bg-stone-50 p-6 rounded-xl border border-amber-100 shadow-sm w-full"><span class="font-mono text-amber-700 font-bold text-lg">Modern Era</span>
+<h3 class="font-serif text-xl font-bold text-soda-dark mt-1 mb-2">The Functional Shift</h3>
+<p class="text-sm text-stone-600 leading-relaxed">The rise of prebiotic and functional sodas (Olipop, Poppi) introduces alternative sweeteners. The industry attempts to replicate the classic heavy mouthfeel without the caloric load, resulting in varying degrees of success.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Intro & Methodology -->
+<section id="methodology" class="py-24 bg-cream-50 relative border-t border-amber-100">
 <div class="container mx-auto px-6 md:px-12 grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
 <div class="animate-on-scroll">
 <h2 class="font-serif text-5xl mb-6 text-soda-dark">The Methodology</h2>
 <p class="text-lg text-stone-600 leading-relaxed mb-6 font-serif">We utilized an <strong class="text-amber-700">eight-point standardized matrix</strong> to evaluate the sensory and economic factors of 13 distinct brands.</p>
 <div class="grid grid-cols-2 gap-4 text-sm font-bold text-soda-base uppercase tracking-wider">
-<div class="p-4 bg-stone-50 border border-amber-100 rounded-lg shadow-sm hover:shadow-md transition-shadow">Creaminess</div>
-<div class="p-4 bg-stone-50 border border-amber-100 rounded-lg shadow-sm hover:shadow-md transition-shadow">Overall Taste</div>
-<div class="p-4 bg-stone-50 border border-amber-100 rounded-lg shadow-sm hover:shadow-md transition-shadow">Smoothness</div>
-<div class="p-4 bg-stone-50 border border-amber-100 rounded-lg shadow-sm hover:shadow-md transition-shadow">Opening Exp.</div>
-<div class="p-4 bg-stone-50 border border-amber-100 rounded-lg shadow-sm hover:shadow-md transition-shadow">Design</div>
-<div class="p-4 bg-stone-50 border border-amber-100 rounded-lg shadow-sm hover:shadow-md transition-shadow">Ingredients</div>
-<div class="p-4 bg-stone-50 border border-amber-100 rounded-lg shadow-sm hover:shadow-md transition-shadow">Price</div>
-<div class="p-4 bg-stone-50 border border-amber-100 rounded-lg shadow-sm hover:shadow-md transition-shadow">Availability</div>
+<div class="p-4 bg-white border border-amber-100 rounded-lg shadow-sm hover:shadow-md transition-shadow text-center">Creaminess</div>
+<div class="p-4 bg-white border border-amber-100 rounded-lg shadow-sm hover:shadow-md transition-shadow text-center">Overall Taste</div>
+<div class="p-4 bg-white border border-amber-100 rounded-lg shadow-sm hover:shadow-md transition-shadow text-center">Smoothness</div>
+<div class="p-4 bg-white border border-amber-100 rounded-lg shadow-sm hover:shadow-md transition-shadow text-center">Opening Exp.</div>
+<div class="p-4 bg-white border border-amber-100 rounded-lg shadow-sm hover:shadow-md transition-shadow text-center">Design</div>
+<div class="p-4 bg-white border border-amber-100 rounded-lg shadow-sm hover:shadow-md transition-shadow text-center">Ingredients</div>
+<div class="p-4 bg-white border border-amber-100 rounded-lg shadow-sm hover:shadow-md transition-shadow text-center">Price</div>
+<div class="p-4 bg-white border border-amber-100 rounded-lg shadow-sm hover:shadow-md transition-shadow text-center">Availability</div>
 </div>
 </div>
-<div class="animate-on-scroll bg-cream-50 p-8 rounded-2xl shadow-xl border border-amber-100">
+<div class="animate-on-scroll bg-white p-8 rounded-2xl shadow-xl border border-amber-200">
 <h3 class="font-bold text-soda-dark mb-4 flex items-center gap-2"><i data-lucide="clipboard-list" class="text-amber-600"></i> Scoring Rubric</h3>
 <ul class="space-y-4 text-stone-600">
-<li class="flex justify-between items-center border-b border-amber-200/50 pb-2">Max Points Per Metric<span class="font-mono font-bold">5.0</span></li>
-<li class="flex justify-between items-center border-b border-amber-200/50 pb-2">Total Possible Score<span class="font-mono font-bold text-amber-600">40.0</span></li>
+<li class="flex justify-between items-center border-b border-amber-100 pb-2">Max Points Per Metric<span class="font-mono font-bold text-lg">5.0</span></li>
+<li class="flex justify-between items-center border-b border-amber-100 pb-2">Total Possible Score<span class="font-mono font-bold text-xl text-amber-600">40.0</span></li>
 </ul>
-<div class="mt-6 p-4 bg-white border-l-4 border-amber-500 text-sm text-amber-900 italic shadow-sm">"The primary objective was to move beyond subjective preference by quantifying the trade-off inherent in the market."</div>
+<div class="mt-8 p-5 bg-amber-50 border-l-4 border-amber-500 text-sm text-amber-900 italic shadow-inner rounded-r-lg">"The primary objective was to move beyond subjective preference by quantifying the trade-off inherent in the market."</div>
 </div>
 </div>
 </section>
 <!-- The Findings (Charts) -->
-<section class="py-24 bg-stone-50 border-t border-amber-100">
+<section class="py-24 bg-white border-t border-amber-100">
 <div class="container mx-auto px-6">
 <div class="text-center mb-16 animate-on-scroll"><span class="text-amber-600 font-bold tracking-widest text-xs uppercase">Data Visualization</span>
 <h2 class="font-serif text-5xl mt-2 text-soda-dark">Ranking the Foam</h2>
 </div>
 <!-- Main Bar Chart -->
-<div class="max-w-4xl mx-auto mb-24 animate-on-scroll bg-white p-6 rounded-xl shadow-xl border border-stone-200"><div class="post__iframe"><iframe loading="lazy" height="447" style="width: 0; min-width: 100% !important; border: none;" title="Project Cream Results" aria-label="Bar Chart" id="datawrapper-chart-zn95y" src="https://datawrapper.dwcdn.net/zn95y/1/" scrolling="no" frameborder="0" data-external="1"></iframe></div>
-<script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
-</div>
+<div class="max-w-4xl mx-auto mb-24 animate-on-scroll bg-stone-50 p-6 rounded-xl shadow-lg border border-stone-200"><div class="post__iframe"><iframe loading="lazy" height="447" style="width: 0; min-width: 100% !important; border: none;" title="Project Cream Results" aria-label="Bar Chart" id="datawrapper-chart-zn95y" src="https://datawrapper.dwcdn.net/zn95y/1/" scrolling="no" frameborder="0" data-external="1"></iframe></div></div>
 <!-- Analysis Cards -->
-<div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-20 animate-on-scroll">
-<div class="p-8 bg-white text-stone-800 rounded-xl shadow-md border border-stone-200">
-<div class="text-amber-600 mb-4"> </div>
-<h3 class="text-xl font-bold text-soda-dark mb-2">Sugar is King</h3>
-<p class="text-sm opacity-80 leading-relaxed text-stone-600">Superior sensory experiences (Creaminess, Taste) are overwhelmingly linked to traditional, caloric sweeteners like <strong class="text-amber-700">Honey</strong> or <strong class="text-amber-700">Cane Sugar</strong>.</p>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-24 animate-on-scroll">
+<div class="p-8 bg-cream-50 text-stone-800 rounded-xl shadow-md border border-amber-100 hover:-translate-y-1 transition-transform">
+<h3 class="text-xl font-bold text-soda-dark mb-3 border-b border-amber-200 pb-2">Sugar is King</h3>
+<p class="text-sm leading-relaxed text-stone-600">Superior sensory experiences (Creaminess, Taste) are overwhelmingly linked to traditional, caloric sweeteners like <strong class="text-amber-700">Honey</strong> or <strong class="text-amber-700">Cane Sugar</strong>.</p>
 </div>
-<div class="p-8 bg-white text-stone-800 rounded-xl shadow-md border border-stone-200">
-<div class="text-stone-400 mb-4"> </div>
-<h3 class="text-xl font-bold text-soda-dark mb-2">The Functional Barrier</h3>
-<p class="text-sm opacity-80 leading-relaxed text-stone-600">Zero-calorie alternatives consistently achieve high ingredient marks but fail dramatically in texture and flavor. Current technology cannot replicate the "Cream" profile.</p>
+<div class="p-8 bg-cream-50 text-stone-800 rounded-xl shadow-md border border-amber-100 hover:-translate-y-1 transition-transform">
+<h3 class="text-xl font-bold text-soda-dark mb-3 border-b border-amber-200 pb-2">The Functional Barrier</h3>
+<p class="text-sm leading-relaxed text-stone-600">Zero-calorie alternatives consistently achieve high ingredient marks but fail dramatically in texture and flavor. Current technology cannot replicate the "Cream" profile.</p>
 </div>
-<div class="p-8 bg-white text-stone-800 rounded-xl shadow-md border border-stone-200">
-<div class="text-amber-600 mb-4"> </div>
-<h3 class="text-xl font-bold text-soda-dark mb-2">Economy Paradox</h3>
-<p class="text-sm opacity-80 leading-relaxed text-stone-600">Surprisingly, "Great Value" (Walmart) outperformed many mid-tier brands, proving that generic HFCS formulations often beat poorly executed "healthy" sodas.</p>
+<div class="p-8 bg-cream-50 text-stone-800 rounded-xl shadow-md border border-amber-100 hover:-translate-y-1 transition-transform">
+<h3 class="text-xl font-bold text-soda-dark mb-3 border-b border-amber-200 pb-2">Economy Paradox</h3>
+<p class="text-sm leading-relaxed text-stone-600">Surprisingly, "Great Value" (Walmart) outperformed many mid-tier brands, proving that generic HFCS formulations often beat poorly executed "healthy" sodas.</p>
 </div>
 </div>
 <!-- Tier List -->
 <div class="max-w-5xl mx-auto animate-on-scroll">
 <h3 class="font-serif text-3xl mb-8 text-center text-soda-dark">The Official Hierarchy</h3>
-<div class="border-4 border-stone-200 bg-white rounded-lg overflow-hidden shadow-xl"><!-- S Tier -->
-<div class="grid grid-cols-12 border-b border-stone-100 min-h-[100px]">
-<div class="col-span-3 md:col-span-2 tier-s flex items-center justify-center p-4 text-center"><span class="font-black text-stone-900 text-lg md:text-xl uppercase leading-tight">Peak<br>Cream</span></div>
-<div class="col-span-9 md:col-span-10 bg-stone-50 p-4 flex flex-wrap items-center gap-4">
-<div class="bg-amber-100 border border-amber-300 text-amber-900 px-4 py-2 rounded font-bold font-serif text-xl shadow-sm">Sprecher’s</div>
+<div class="border border-stone-200 bg-white rounded-xl overflow-hidden shadow-xl"><!-- S Tier -->
+<div class="grid grid-cols-12 border-b border-stone-100 min-h-[100px] group hover:bg-stone-50 transition-colors">
+<div class="col-span-3 md:col-span-2 bg-amber-500 flex items-center justify-center p-4 text-center border-r border-stone-100"><span class="font-black text-white text-lg md:text-xl uppercase leading-tight drop-shadow-sm">Peak<br>Cream</span></div>
+<div class="col-span-9 md:col-span-10 p-4 flex flex-wrap items-center gap-4">
+<div class="bg-gradient-to-r from-amber-100 to-amber-50 border border-amber-300 text-amber-900 px-5 py-2 rounded-lg font-bold font-serif text-xl shadow-sm">Sprecher’s</div>
 </div>
 </div>
 <!-- A Tier -->
-<div class="grid grid-cols-12 border-b border-stone-100 min-h-[100px]">
-<div class="col-span-3 md:col-span-2 tier-a flex items-center justify-center p-4 text-center"><span class="font-black text-stone-900 text-lg md:text-xl uppercase">Pretty<br>Good</span></div>
-<div class="col-span-9 md:col-span-10 bg-stone-50 p-4 flex flex-wrap items-center gap-4">
-<div class="bg-white border border-stone-200 text-stone-800 px-4 py-2 rounded font-bold font-serif text-xl shadow-sm">IBC</div>
+<div class="grid grid-cols-12 border-b border-stone-100 min-h-[100px] group hover:bg-stone-50 transition-colors">
+<div class="col-span-3 md:col-span-2 bg-amber-200 flex items-center justify-center p-4 text-center border-r border-stone-100"><span class="font-black text-amber-900 text-lg md:text-xl uppercase">Pretty<br>Good</span></div>
+<div class="col-span-9 md:col-span-10 p-4 flex flex-wrap items-center gap-4">
+<div class="bg-white border border-stone-200 text-stone-800 px-4 py-2 rounded-lg font-bold font-serif text-xl shadow-sm">IBC</div>
 </div>
 </div>
 <!-- B Tier -->
-<div class="grid grid-cols-12 border-b border-stone-100 min-h-[100px]">
-<div class="col-span-3 md:col-span-2 tier-b flex items-center justify-center p-4 text-center"><span class="font-black text-stone-900 text-lg md:text-xl uppercase">Not<br>Bad</span></div>
-<div class="col-span-9 md:col-span-10 bg-stone-50 p-4 flex flex-wrap items-center gap-4">
-<div class="bg-white border border-stone-200 text-stone-600 px-4 py-2 rounded font-bold text-lg shadow-sm">Great Value</div>
-<div class="bg-white border border-stone-200 text-stone-600 px-4 py-2 rounded font-bold text-lg shadow-sm">A&amp;W</div>
-<div class="bg-white border border-stone-200 text-stone-600 px-4 py-2 rounded font-bold text-lg shadow-sm">Jones</div>
+<div class="grid grid-cols-12 border-b border-stone-100 min-h-[100px] group hover:bg-stone-50 transition-colors">
+<div class="col-span-3 md:col-span-2 bg-stone-200 flex items-center justify-center p-4 text-center border-r border-stone-100"><span class="font-black text-stone-700 text-lg md:text-xl uppercase">Not<br>Bad</span></div>
+<div class="col-span-9 md:col-span-10 p-4 flex flex-wrap items-center gap-4">
+<div class="bg-white border border-stone-200 text-stone-600 px-4 py-2 rounded-lg font-bold text-lg shadow-sm">Great Value</div>
+<div class="bg-white border border-stone-200 text-stone-600 px-4 py-2 rounded-lg font-bold text-lg shadow-sm">A&amp;W</div>
+<div class="bg-white border border-stone-200 text-stone-600 px-4 py-2 rounded-lg font-bold text-lg shadow-sm">Jones</div>
 </div>
 </div>
 <!-- C Tier -->
-<div class="grid grid-cols-12 border-b border-stone-100 min-h-[100px]">
-<div class="col-span-3 md:col-span-2 tier-c flex items-center justify-center p-4 text-center"><span class="font-black text-stone-900 text-lg md:text-xl uppercase">Mid</span></div>
-<div class="col-span-9 md:col-span-10 bg-stone-50 p-4 flex flex-wrap items-center gap-4">
-<div class="bg-white border border-stone-200 text-stone-500 px-4 py-2 rounded font-bold shadow-sm">Nixie</div>
-<div class="bg-white border border-stone-200 text-stone-500 px-4 py-2 rounded font-bold shadow-sm">Olipop</div>
-<div class="bg-white border border-stone-200 text-stone-500 px-4 py-2 rounded font-bold shadow-sm">Poppi</div>
-<div class="bg-white border border-stone-200 text-stone-500 px-4 py-2 rounded font-bold shadow-sm">Signature</div>
+<div class="grid grid-cols-12 border-b border-stone-100 min-h-[100px] group hover:bg-stone-50 transition-colors">
+<div class="col-span-3 md:col-span-2 bg-stone-300 flex items-center justify-center p-4 text-center border-r border-stone-100"><span class="font-black text-stone-700 text-lg md:text-xl uppercase">Mid</span></div>
+<div class="col-span-9 md:col-span-10 p-4 flex flex-wrap items-center gap-4">
+<div class="bg-white border border-stone-200 text-stone-500 px-4 py-2 rounded-lg font-bold shadow-sm">Nixie</div>
+<div class="bg-white border border-stone-200 text-stone-500 px-4 py-2 rounded-lg font-bold shadow-sm">Olipop</div>
+<div class="bg-white border border-stone-200 text-stone-500 px-4 py-2 rounded-lg font-bold shadow-sm">Poppi</div>
+<div class="bg-white border border-stone-200 text-stone-500 px-4 py-2 rounded-lg font-bold shadow-sm">Signature</div>
 </div>
 </div>
 <!-- D Tier -->
-<div class="grid grid-cols-12 border-b border-stone-100 min-h-[100px]">
-<div class="col-span-3 md:col-span-2 tier-d flex items-center justify-center p-4 text-center"><span class="font-black text-stone-900 text-lg md:text-xl uppercase">Bad</span></div>
-<div class="col-span-9 md:col-span-10 bg-stone-50 p-4 flex flex-wrap items-center gap-4">
-<div class="bg-white border border-stone-200 text-stone-400 px-4 py-2 rounded font-bold text-sm shadow-sm">Zevia</div>
-<div class="bg-white border border-stone-200 text-stone-400 px-4 py-2 rounded font-bold text-sm shadow-sm">Teddy's</div>
-<div class="bg-white border border-stone-200 text-stone-400 px-4 py-2 rounded font-bold text-sm shadow-sm">Popwell</div>
+<div class="grid grid-cols-12 border-b border-stone-100 min-h-[100px] group hover:bg-stone-50 transition-colors">
+<div class="col-span-3 md:col-span-2 bg-stone-400 flex items-center justify-center p-4 text-center border-r border-stone-100"><span class="font-black text-white text-lg md:text-xl uppercase">Bad</span></div>
+<div class="col-span-9 md:col-span-10 p-4 flex flex-wrap items-center gap-4">
+<div class="bg-white border border-stone-200 text-stone-400 px-4 py-2 rounded-lg font-bold text-sm shadow-sm">Zevia</div>
+<div class="bg-white border border-stone-200 text-stone-400 px-4 py-2 rounded-lg font-bold text-sm shadow-sm">Teddy's</div>
+<div class="bg-white border border-stone-200 text-stone-400 px-4 py-2 rounded-lg font-bold text-sm shadow-sm">Popwell</div>
 </div>
 </div>
 <!-- F Tier -->
-<div class="grid grid-cols-12 min-h-[100px]">
-<div class="col-span-3 md:col-span-2 tier-f flex items-center justify-center p-4 text-center"><span class="font-black text-stone-900 text-sm md:text-lg uppercase leading-tight">Chemical<br>Warfare</span></div>
-<div class="col-span-9 md:col-span-10 bg-stone-50 p-4 flex flex-wrap items-center gap-4">
-<div class="bg-white border border-red-200 text-red-500/80 px-4 py-2 rounded font-bold text-sm opacity-80 shadow-sm">Cove</div>
+<div class="grid grid-cols-12 min-h-[100px] group hover:bg-stone-50 transition-colors">
+<div class="col-span-3 md:col-span-2 bg-red-800 flex items-center justify-center p-4 text-center border-r border-stone-100"><span class="font-black text-red-100 text-sm md:text-lg uppercase leading-tight">Chemical<br>Warfare</span></div>
+<div class="col-span-9 md:col-span-10 p-4 flex flex-wrap items-center gap-4">
+<div class="bg-white border border-red-200 text-red-500/80 px-4 py-2 rounded-lg font-bold text-sm shadow-sm">Cove</div>
 </div>
 </div>
 </div>
@@ -253,15 +234,15 @@
 </div>
 </section>
 <!-- Raw Data Matrix -->
-<section class="py-24 bg-white border-t border-stone-200">
+<section class="py-24 bg-stone-50 border-t border-stone-200">
 <div class="container mx-auto px-6 animate-on-scroll">
-<h2 class="font-serif text-4xl mb-8 text-center text-soda-dark">Raw Data Matrix</h2>
-<p class="text-center text-stone-500 mb-8 max-w-2xl mx-auto">Full breakdown of the eight-point inspection. Scroll right to view all competitors.</p>
+<h2 class="font-serif text-4xl mb-6 text-center text-soda-dark">Raw Data Matrix</h2>
+<p class="text-center text-stone-500 mb-10 max-w-2xl mx-auto">Full breakdown of the eight-point inspection. Scroll right to view all competitors.</p>
 <div class="overflow-x-auto rounded-xl shadow-lg border border-stone-200 bg-white">
-<table class="w-full text-sm text-left text-stone-600">
-<thead class="text-xs text-stone-700 uppercase bg-stone-50 border-b border-stone-200">
+<table class="w-full text-sm text-left text-stone-600 whitespace-nowrap">
+<thead class="text-xs text-stone-700 uppercase bg-stone-100 border-b border-stone-200">
 <tr>
-<th class="px-6 py-4 font-bold sticky left-0 bg-stone-50 z-10 shadow-sm" scope="col">Brand</th>
+<th class="px-6 py-4 font-bold sticky left-0 bg-stone-100 z-10 shadow-[2px_0_5px_-2px_rgba(0,0,0,0.1)]" scope="col">Brand</th>
 <th class="px-4 py-3 text-center" scope="col">Creaminess</th>
 <th class="px-4 py-3 text-center" scope="col">Taste</th>
 <th class="px-4 py-3 text-center" scope="col">Smoothness</th>
@@ -278,84 +259,141 @@
 </div>
 </div>
 </section>
-<!-- Footer --><footer class="bg-cream-100 text-stone-600 py-16 border-t border-amber-200">
+<!-- Footer --><footer class="bg-white text-stone-600 py-16 border-t border-amber-200">
 <div class="container mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-8">
 <div class="text-center md:text-left">
 <div class="text-soda-dark font-serif font-bold text-2xl mb-2 tracking-wider">CRSI</div>
-<p class="text-xs max-w-sm">Clouty Skies Research Institute. <br>Project Cream © 2025</p>
+<p class="text-xs max-w-sm text-stone-400 uppercase tracking-widest">Clouty Skies Research Institute. <br>Project Cream © 2026</p>
 </div>
 <div class="flex gap-6 text-sm font-bold uppercase tracking-widest text-amber-900/60"><a href="mailto:contact@clouty-skies.com" class="hover:text-amber-600 transition-colors">Contact</a></div>
 </div>
-</footer></main><!-- Logic -->
-<p>
+</footer></main><!-- Tailwind CSS -->
+<script src="https://cdn.tailwindcss.com"></script>
+<!-- Icons -->
+<script src="https://unpkg.com/lucide@latest"></script>
+<!-- Custom Config -->
 <script>
-        lucide.createIcons();
+	tailwind.config = {
+		theme: {
+			extend: {
+				fontFamily: {
+					serif: ['"Playfair Display"', 'serif'],
+					sans: ['"Inter"', 'sans-serif'],
+					mono: ['"Space Mono"', 'monospace'],
+				},
+				colors: {
+					cream: {
+						50: '#FFFCF5',
+						100: '#FFF8E1',
+						200: '#FFE0B2',
+						900: '#3E2723',
+					},
+					soda: {
+						light: '#D4AF37',
+						base: '#B8860B',
+						dark: '#4B3621',
+					}
+				}
+			}
+		}
+	}
+</script>
+<!-- Import Maps -->
+<script type="importmap">
+{
+	"imports": {
+		"lucide-react": "https://esm.sh/lucide-react@^0.562.0",
+		"framer-motion": "https://esm.sh/framer-motion@^12.23.26",
+		"@react-three/fiber": "https://esm.sh/@react-three/fiber@^9.4.2",
+		"@react-three/drei": "https://esm.sh/@react-three/drei@^10.7.7",
+		"three": "https://esm.sh/three@^0.182.0",
+		"vite": "https://esm.sh/vite@^7.3.0",
+		"@vitejs/plugin-react": "https://esm.sh/@vitejs/plugin-react@^5.1.2",
+		"react": "https://esm.sh/react@^19.2.3",
+		"react-dom/": "https://esm.sh/react-dom@^19.2.3/",
+		"react/": "https://esm.sh/react@^19.2.3/"
+	}
+}
+</script>
+<!-- Interactive Logic -->
+<script>
+	// Initialize Icons
+	lucide.createIcons();
 
-        // --- Data ---
-        const rankings = [
-            { name: "Sprecher’s", score: 31.0, data: [5, 5, 5, 4, 3, 4, 2, 3] },
-            { name: "IBC", score: 30.0, data: [4.5, 4, 5, 2.5, 3, 4, 3, 4] },
-            { name: "Great Value", score: 28.0, data: [4, 4.5, 4, 3, 4, 0, 5, 3.5] },
-            { name: "A&W", score: 25.0, data: [3, 3, 3, 5, 2, 0, 4, 5] },
-            { name: "Jones", score: 25.0, data: [4, 3.5, 3.5, 2, 3, 5, 2, 2] },
-            { name: "Nixie", score: 20.0, data: [3, 3.5, 2, 1, 2.5, 5, 2, 1] },
-            { name: "Olipop", score: 20.0, data: [1, 1.5, 1, 4, 3, 3, 2, 4.5] },
-            { name: "Poppi", score: 19.5, data: [0, 0, 1, 4, 3, 5, 2.5, 4] },
-            { name: "Signature", score: 17.5, data: [1, 1, 1, 0, 5, 2, 5, 2.5] },
-            { name: "Zevia", score: 15.0, data: [0, 1, 0, 2, 2, 5, 3, 2] },
-            { name: "Teddy’s", score: 13.5, data: [1, 2, 1, 2, 1, 1.5, 4, 1] },
-            { name: "Popwell", score: 12.0, data: [0, 0, 0, 3, 2, 3.5, 2.5, 1] },
-            { name: "Cove", score: 10.0, data: [0, 0, 0, 0, 2, 5, 2, 1] }
-        ];
+	// --- Bubble Generation ---
+	const bubbleContainer = document.getElementById('bubbles');
+	const bubbleCount = 40; // Increased count for better visual
+	for (let i = 0; i < bubbleCount; i++) {
+		const bubble = document.createElement('div');
+		bubble.className = 'bubble';
+		const size = Math.random() * 25 + 5; // Sizes between 5px and 30px
+		bubble.style.width = `${size}px`;
+		bubble.style.height = `${size}px`;
+		bubble.style.left = `${Math.random() * 100}%`;
+		bubble.style.setProperty('--duration', `${Math.random() * 6 + 4}s`);
+		bubble.style.setProperty('--sway', `${Math.random() * 100 - 50}px`);
+		bubble.style.animationDelay = `${Math.random() * 5}s`;
+		bubbleContainer.appendChild(bubble);
+	}
 
-        // --- Render Table ---
-        const tableBody = document.getElementById('raw-data-body');
-        rankings.forEach(item => {
-            const tr = document.createElement('tr');
-            tr.className = "bg-white border-b border-stone-100 hover:bg-stone-50 transition-colors";
-            
-            let cells = `<th scope="row" class="px-6 py-4 font-bold text-stone-900 sticky left-0 bg-white shadow-sm border-r border-stone-100">${item.name}</th>`;
-            
-            item.data.forEach(val => {
-                const bg = val >= 4.5 ? 'bg-green-50 text-green-700' : (val <= 1 ? 'bg-red-50 text-red-700' : '');
-                cells += `<td class="px-4 py-3 text-center"><span class="${bg} px-2 py-1 rounded">${val}</span></td>`;
-            });
-            
-            cells += `<td class="px-6 py-3 text-right font-bold text-soda-dark">${item.score}</td>`;
-            tr.innerHTML = cells;
-            tableBody.appendChild(tr);
-        });
+	// --- Datawrapper listener ---
+	window.addEventListener("message", function(a) {
+		if (void 0 !== a.data["datawrapper-height"]) {
+			var e = document.querySelectorAll("iframe");
+			for (var t in a.data["datawrapper-height"])
+				for (var r, i = 0; r = e[i]; i++)
+					if (r.contentWindow === a.source) {
+						var d = a.data["datawrapper-height"][t] + "px";
+						r.style.height = d
+					}
+		}
+	});
 
-        // --- Animations ---
-        // Bubbles
-        const bubbleContainer = document.getElementById('bubbles');
-        const bubbleCount = 30;
-        for (let i = 0; i < bubbleCount; i++) {
-            const bubble = document.createElement('div');
-            bubble.className = 'bubble';
-            const size = Math.random() * 20 + 5;
-            bubble.style.width = `${size}px`;
-            bubble.style.height = `${size}px`;
-            bubble.style.left = `${Math.random() * 100}%`;
-            bubble.style.setProperty('--duration', `${Math.random() * 5 + 3}s`);
-            bubble.style.setProperty('--sway', `${Math.random() * 100 - 50}px`);
-            bubble.style.animationDelay = `${Math.random() * 5}s`;
-            bubbleContainer.appendChild(bubble);
-        }
+	// --- Raw Data Generation ---
+	const rankings = [
+		{ name: "Sprecher’s", score: 31.0, data: [5, 5, 5, 4, 3, 4, 2, 3] },
+		{ name: "IBC", score: 30.0, data: [4.5, 4, 5, 2.5, 3, 4, 3, 4] },
+		{ name: "Great Value", score: 28.0, data: [4, 4.5, 4, 3, 4, 0, 5, 3.5] },
+		{ name: "A&W", score: 25.0, data: [3, 3, 3, 5, 2, 0, 4, 5] },
+		{ name: "Jones", score: 25.0, data: [4, 3.5, 3.5, 2, 3, 5, 2, 2] },
+		{ name: "Nixie", score: 20.0, data: [3, 3.5, 2, 1, 2.5, 5, 2, 1] },
+		{ name: "Olipop", score: 20.0, data: [1, 1.5, 1, 4, 3, 3, 2, 4.5] },
+		{ name: "Poppi", score: 19.5, data: [0, 0, 1, 4, 3, 5, 2.5, 4] },
+		{ name: "Signature", score: 17.5, data: [1, 1, 1, 0, 5, 2, 5, 2.5] },
+		{ name: "Zevia", score: 15.0, data: [0, 1, 0, 2, 2, 5, 3, 2] },
+		{ name: "Teddy’s", score: 13.5, data: [1, 2, 1, 2, 1, 1.5, 4, 1] },
+		{ name: "Popwell", score: 12.0, data: [0, 0, 0, 3, 2, 3.5, 2.5, 1] },
+		{ name: "Cove", score: 10.0, data: [0, 0, 0, 0, 2, 5, 2, 1] }
+	];
 
-        // Scroll Observer
-        const observer = new IntersectionObserver((entries) => {
-            entries.forEach(entry => {
-                if (entry.isIntersecting) {
-                    entry.target.classList.add('visible');
-                }
-            });
-        }, { threshold: 0.1 });
+	const tableBody = document.getElementById('raw-data-body');
+	rankings.forEach(item => {
+		const tr = document.createElement('tr');
+		tr.className = "bg-white border-b border-stone-100 hover:bg-stone-50 transition-colors";
 
-        document.querySelectorAll('.animate-on-scroll').forEach(el => observer.observe(el));
+		let cells = `<th scope="row" class="px-6 py-4 font-bold text-stone-900 sticky left-0 bg-white shadow-[2px_0_5px_-2px_rgba(0,0,0,0.1)] group-hover:bg-stone-50">${item.name}</th>`;
 
-    </script>
-</p>
+		item.data.forEach(val => {
+			const bg = val >= 4.5 ? 'bg-green-100 text-green-800' : (val <= 1 ? 'bg-red-50 text-red-700' : 'bg-stone-100 text-stone-700');
+			cells += `<td class="px-4 py-3 text-center"><span class="${bg} px-2.5 py-1 rounded-md font-mono text-xs font-bold">${val.toFixed(1)}</span></td>`;
+		});
+
+		cells += `<td class="px-6 py-3 text-right font-bold text-soda-dark text-base">${item.score.toFixed(1)}</td>`;
+		tr.innerHTML = cells;
+		tableBody.appendChild(tr);
+	});
+
+	// --- Scroll Animations Observer ---
+	const observer = new IntersectionObserver((entries) => {
+		entries.forEach(entry => {
+			if (entry.isIntersecting) {
+				entry.target.classList.add('visible');
+			}
+		});
+	}, { threshold: 0.1 });
+
+	document.querySelectorAll('.animate-on-scroll').forEach(el => observer.observe(el));
+</script>
             ]]>
         </content>
     </entry>
@@ -368,232 +406,254 @@
         <id>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute/the-official-crsi-wigga-meter/</id>
             <category term="Project Wigga-Meter"/>
 
-        <updated>2025-12-05T00:12:25-08:00</updated>
+        <updated>2025-12-05T01:12:25-07:00</updated>
             <summary type="html">
                 <![CDATA[
-                    { "imports": { "lucide-react": "https://esm.sh/lucide-react@^0.562.0", "framer-motion": "https://esm.sh/framer-motion@^12.23.26", "@react-three/fiber": "https://esm.sh/@react-three/fiber@^9.4.2", "@react-three/drei": "https://esm.sh/@react-three/drei@^10.7.7", "three": "https://esm.sh/three@^0.182.0", "vite": "https://esm.sh/vite@^7.3.0", "@vitejs/plugin-react": "https://esm.sh/@vitejs/plugin-react@^5.1.2", "react": "https://esm.sh/react@^19.2.3", "react-dom/":&hellip;
+                    Official Publication The Official Wigga-Meter A conceptual academic framework designed to quantify, categorize, and analyze the probability of encountering Wiggas&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p> </p>
-<!-- Tailwind CSS (No build step required) -->
-<p>
-<script src="https://cdn.tailwindcss.com"></script>
-</p>
-<!-- Icons -->
-<p>
-<script src="https://unpkg.com/lucide@latest"></script>
-</p>
-<!-- Fonts -->
-<p> </p>
-<!-- Configuration & Custom CSS -->
-<p>
-<script>
-      tailwind.config = {
-        theme: {
-          extend: {
-            fontFamily: {
-              serif: ['"Playfair Display"', 'serif'],
-              sans: ['"Inter"', 'sans-serif'],
-            },
-            colors: {
-              nobel: {
-                gold: '#C5A059',
-                dark: '#1a1a1a',
-                cream: '#F9F8F4',
-                red: '#FF0000',
-                yellow: '#FFFF00',
-              }
-            }
-          }
-        }
-      }
-    </script>
-<script type="importmap">
-{
-  "imports": {
-    "lucide-react": "https://esm.sh/lucide-react@^0.562.0",
-    "framer-motion": "https://esm.sh/framer-motion@^12.23.26",
-    "@react-three/fiber": "https://esm.sh/@react-three/fiber@^9.4.2",
-    "@react-three/drei": "https://esm.sh/@react-three/drei@^10.7.7",
-    "three": "https://esm.sh/three@^0.182.0",
-    "vite": "https://esm.sh/vite@^7.3.0",
-    "@vitejs/plugin-react": "https://esm.sh/@vitejs/plugin-react@^5.1.2",
-    "react": "https://esm.sh/react@^19.2.3",
-    "react-dom/": "https://esm.sh/react-dom@^19.2.3/",
-    "react/": "https://esm.sh/react@^19.2.3/"
-  }
-}
-</script>
-</p>
-<!-- Hero Section --><header class="relative h-screen flex items-center justify-center overflow-hidden bg-white"><!-- Static/Simple Scene -->
-<div class="scene-container">
-<div class="floating-item delay-1 text-6xl" style="top: 20%; left: 15%;">🍔</div>
-<div class="floating-item delay-2 text-7xl" style="top: 65%; left: 80%;">🏀</div>
-<div class="floating-item delay-3 text-5xl" style="top: 25%; left: 75%;">🧢</div>
-<div class="floating-item delay-1 text-6xl" style="top: 15%; left: 55%; filter: drop-shadow(0 0 10px gold);">⛓️</div>
+                <!-- Custom Animation Styles --><main class="bg-nobel-cream text-stone-800 font-sans selection:bg-nobel-red selection:text-white"><!-- Hero Section --><header class="relative min-h-[80vh] flex items-center justify-center overflow-hidden bg-white border-b border-stone-200">
+<div class="absolute inset-0 bg-[radial-gradient(#e5e7eb_1px,transparent_1px)] [background-size:16px_16px] opacity-30"> </div>
+<div class="relative z-10 container mx-auto px-6 py-20 text-center max-w-5xl">
+<div class="inline-flex items-center gap-2 mb-8 px-4 py-1.5 border border-stone-200 bg-stone-50 text-stone-500 text-xs tracking-[0.2em] uppercase font-bold rounded-full"><i data-lucide="microscope" class="w-4 h-4"></i> Official Publication</div>
+<h1 class="font-serif text-5xl md:text-7xl lg:text-8xl font-bold leading-tight mb-8 text-stone-900">The Official <br><span class="text-nobel-red">Wigga-Meter</span></h1>
+<p class="max-w-2xl mx-auto text-lg md:text-xl text-stone-600 font-light leading-relaxed mb-12">A conceptual academic framework designed to quantify, categorize, and analyze the probability of encountering Wiggas in the wild.</p>
+<div class="flex justify-center"><a href="#methodology" class="group flex flex-col items-center gap-2 text-sm font-bold text-stone-400 hover:text-nobel-red transition-colors cursor-pointer uppercase tracking-widest"> Review Methodology <i data-lucide="arrow-down" class="group-hover:translate-y-1 transition-transform"></i> </a></div>
 </div>
-<div class="relative z-10 container mx-auto px-6 text-center text-stone-900">
-<div class="inline-block mb-6 px-4 py-1 border border-red-200 bg-red-50 text-red-600 text-xs tracking-[0.3em] uppercase font-bold rounded-full">Official Publication</div>
-<h1 class="font-serif text-5xl md:text-7xl lg:text-9xl font-bold leading-tight mb-6">The Official <br><span class="text-transparent bg-clip-text bg-gradient-to-r from-red-600 to-yellow-600">Wigga-Meter</span></h1>
-<p class="max-w-2xl mx-auto text-lg md:text-xl text-stone-600 font-light leading-relaxed mb-12">A conceptual framework designed to quantify and analyze the probability of encountering specific cultural phenomena.</p>
-<div class="flex justify-center"><a href="#about" class="group flex flex-col items-center gap-2 text-sm font-bold text-stone-500 hover:text-red-600 transition-colors cursor-pointer uppercase tracking-widest"> Begin Analysis <i data-lucide="arrow-down"></i> </a></div>
-</div>
-</header><main><!-- Definition -->
-<section id="about" class="py-24 bg-white relative overflow-hidden">
-<div class="absolute top-0 left-0 w-full h-full overflow-hidden pointer-events-none opacity-[0.03] select-none">
-<div class="text-[20vw] font-serif font-bold text-stone-900 leading-none whitespace-nowrap ml-[-10vw]">CRSI CRSI</div>
-</div>
-<div class="container mx-auto px-6 md:px-12 grid grid-cols-1 md:grid-cols-12 gap-12 items-start relative z-10">
-<div class="md:col-span-5 animate-on-scroll">
-<div class="inline-block mb-3 text-xs font-bold tracking-widest text-red-600 uppercase">Framework Definition</div>
-<h2 class="font-serif text-5xl mb-6 leading-tight text-stone-900">What is a <br><span class="italic text-stone-500">Wigger?</span></h2>
-<div class="w-24 h-1.5 bg-gradient-to-r from-red-500 to-yellow-500 mb-8"> </div>
-<p class="text-lg text-stone-600 leading-relaxed mb-6">A suburban white individual who adopts the aesthetic of urban rap culture, often identifying with cities like the Bronx or Atlanta based solely on lyrical exposure.</p>
-<div class="bg-[#F5F4F0] p-8 rounded-2xl border border-stone-200 shadow-inner">
-<h3 class="font-serif text-2xl mb-4 text-stone-900">How It Works</h3>
-<p class="text-stone-700 mb-4 leading-relaxed">The <strong class="text-red-600">Wigga-Meter</strong> employs a standardized <strong>1-25 scale</strong> to quantify the relative intensity of the <em>WiggerFactor</em>.</p>
+</header><!-- Methodology -->
+<section id="methodology" class="py-24 bg-nobel-cream relative border-b border-stone-200">
+<div class="container mx-auto px-6 md:px-12 max-w-6xl">
+<div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-start">
+<div class="animate-on-scroll">
+<div class="inline-block mb-4 text-xs font-bold tracking-widest text-nobel-red uppercase">Framework Definition</div>
+<h2 class="font-serif text-4xl md:text-5xl mb-6 leading-tight text-stone-900">Defining the Subject</h2>
+<div class="mb-8">
+<h3 class="font-serif text-2xl text-stone-900 mb-3">Official Definition</h3>
+<p class="text-stone-600 italic border-l-4 border-stone-300 pl-4 mb-2">"A usually young white person whose clothing, language, and mannerisms are regarded as imitative of those stereotypically associated with African-Americans : a white person who admires and seeks to emulate black culture"</p>
+<span class="text-xs text-stone-400 block mb-6 uppercase tracking-wider">Citation: “Wigger.” Merriam-Webster.com Dictionary, Merriam-Webster, https://www.merriam-webster.com/dictionary/wigger. Accessed 4 Jun. 2026.</span></div>
+<div class="mb-8">
+<h3 class="font-serif text-2xl text-stone-900 mb-3">CSRI's Working Definition</h3>
+<p class="text-lg text-stone-600 leading-relaxed mb-4">A suburban white individual who adopts the aesthetic of urban rap culture, often identifying with cities like the Bronx or Atlanta based solely on lyrical exposure.</p>
+<p class="text-stone-600 leading-relaxed bg-white p-6 rounded-xl border border-stone-200 shadow-sm">It is critical to differentiate the process from the result. To achieve <strong class="text-stone-900">Wiggerdom</strong>, one must undergo the arduous journey of <strong class="text-nobel-red">Wiggermaxing</strong>. This process requires years of practice, yelling at your girlfriend, extensive auditory exposure, drug abuse, and more yelling. Wiggerdom is the final, enlightened end state of this developmental process.</p>
 </div>
 </div>
-<div class="md:col-span-7 flex flex-col gap-6 animate-on-scroll">
-<div class="w-full rounded-2xl overflow-hidden shadow-2xl border-4 border-stone-900 bg-stone-900 relative aspect-video"><div class="post__iframe"><iframe loading="lazy" class="w-full h-full" src="https://www.youtube-nocookie.com/embed/1C6Xo03GQJk?si=K-1Wa6COXrlMBjuf" title="Official Overview Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div></div>
-<div class="text-center">
-<p class="text-xs font-bold uppercase tracking-widest text-stone-400">Official Video Briefing</p>
+<div class="flex flex-col gap-8 animate-on-scroll delay-100">
+<div class="bg-white p-8 rounded-xl border border-stone-200 shadow-sm">
+<h3 class="font-serif text-xl mb-4 text-stone-900 border-b border-stone-100 pb-2">The Four Variables</h3>
+<ul class="space-y-4 text-sm text-stone-600">
+<li><strong class="text-stone-900 font-bold">NWAL:</strong> Natural Appearance Likelihood in public spaces.</li>
+<li><strong class="text-stone-900 font-bold">WEC:</strong> Wage/Employment Correlation probability.</li>
+<li><strong class="text-stone-900 font-bold">BSA:</strong> Bluetooth Speaker Allowance (public broadcast tolerance).</li>
+<li><strong class="text-stone-900 font-bold">FFP:</strong> Free Food/Drink Probability via networking.</li>
+</ul>
+</div>
+<div class="w-full rounded-xl overflow-hidden shadow-xl border border-stone-200 bg-stone-900 relative aspect-video"><div class="post__iframe"><iframe loading="lazy" class="w-full h-full" src="https://www.youtube-nocookie.com/embed/1C6Xo03GQJk?si=K-1Wa6COXrlMBjuf" title="Official Overview Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></div>
 </div>
 </div>
 </div>
 </section>
-<!-- Data Points -->
-<section id="data" class="py-24 bg-[#F5F4F0] border-t border-stone-200">
-<div class="container mx-auto px-6 text-center animate-on-scroll">
-<div class="inline-block px-3 py-1 bg-stone-200 text-stone-600 text-xs font-bold tracking-widest uppercase rounded-full mb-6">Methodology</div>
-<h2 class="font-serif text-4xl md:text-5xl mb-12 text-stone-900">The Data Points</h2>
-<div class="flex flex-col items-center p-8 bg-white rounded-xl shadow-lg border border-stone-200 my-8 max-w-4xl mx-auto">
-<h3 class="font-serif text-2xl mb-6 text-stone-900 font-bold">Variable Definitions</h3>
-<div class="flex flex-wrap justify-center gap-2 mb-8"><button class="tab-btn px-4 py-2 rounded-full font-bold text-sm tracking-widest transition-all duration-300 bg-red-600 text-white shadow-md transform scale-105" data-tab="NWAL">NWAL</button> <button class="tab-btn px-4 py-2 rounded-full font-bold text-sm tracking-widest transition-all duration-300 bg-stone-100 text-stone-500 hover:bg-stone-200" data-tab="WEC">WEC</button> <button class="tab-btn px-4 py-2 rounded-full font-bold text-sm tracking-widest transition-all duration-300 bg-stone-100 text-stone-500 hover:bg-stone-200" data-tab="BSA">BSA</button> <button class="tab-btn px-4 py-2 rounded-full font-bold text-sm tracking-widest transition-all duration-300 bg-stone-100 text-stone-500 hover:bg-stone-200" data-tab="FFP">FFP</button></div>
-<div id="tab-content-container" class="text-center max-w-lg p-6 bg-stone-50 rounded-lg border border-stone-100 min-h-[150px] flex flex-col justify-center items-center transition-all duration-300">
-<div id="tab-icon" class="text-4xl mb-4">👀</div>
-<h4 id="tab-title" class="text-xl font-bold text-stone-900 mb-3">Natural Wigger Appearance Likelihood</h4>
-<p id="tab-desc" class="text-stone-600 leading-relaxed font-serif">Quantifies the likelihood of an organic encounter in a public setting.</p>
+<!-- Historical Context -->
+<section id="history" class="py-24 bg-stone-900 text-stone-100 relative">
+<div class="container mx-auto px-6 max-w-6xl animate-on-scroll">
+<h2 class="font-serif text-4xl md:text-5xl mb-12 text-white border-b border-stone-800 pb-6">Historical Context &amp; Media Analysis</h2>
+<div class="mb-20">
+<h3 class="text-2xl font-serif mb-4 text-nobel-gold">The "First" Encounter &amp; Comedic Observation</h3>
+<p class="text-stone-400 mb-8 max-w-3xl leading-relaxed">Comedian Theodor Capitani von Kurnatowski III ( Theo Von ) famously describes what he presumes was "The First Wigger." Alongside his account, Bill Burr provides a quintessential analysis of how a Wigger may appear to the general population.</p>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+<div class="aspect-video bg-black rounded-xl overflow-hidden border border-stone-700 shadow-lg"><div class="post__iframe"><iframe loading="lazy" class="w-full h-full" src="https://www.youtube-nocookie.com/embed/ZSQ0Dm5RJTA?si=u__oB75s-ovSI-ou" title="Theo Von first encounter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></div>
+<div class="aspect-video bg-black rounded-xl overflow-hidden border border-stone-700 shadow-lg"><div class="post__iframe"><iframe loading="lazy" class="w-full h-full" src="https://www.youtube-nocookie.com/embed/6RIdJu_IPJI?si=1DOKDpHh11WI6TJ3" title="Bill Burr analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></div>
+</div>
+</div>
+<div class="mb-20">
+<h3 class="text-2xl font-serif mb-4 text-nobel-gold">Historical Accounts &amp; Early Media</h3>
+<p class="text-stone-400 mb-8 max-w-3xl leading-relaxed">The phenomenon began drawing serious media attention in the early 1990s. The Washington Post's 1993 broadcast stands as one of the earliest mainstream examples documenting the cultural shift, supported by archival footage from Hezakya Newz &amp; Films from 1999.</p>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+<div class="aspect-video bg-black rounded-xl overflow-hidden border border-stone-700 shadow-lg"><div class="post__iframe"><iframe loading="lazy" class="w-full h-full" src="https://www.youtube-nocookie.com/embed/8TnbAWV7LG4?si=PIJ2Lrpy7eiflnw7" title="Historical Account Hezakya" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></div>
+<div class="aspect-video bg-black rounded-xl overflow-hidden border border-stone-700 shadow-lg"><div class="post__iframe"><iframe loading="lazy" class="w-full h-full" src="https://www.youtube-nocookie.com/embed/IOF9ffCMXF8?si=GN_lO6G4mpSZXeiL" title="Washington Post 1993" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></div>
+</div>
+</div>
+<div>
+<h3 class="text-2xl font-serif mb-4 text-nobel-gold">Hallmarks of Wigger Awareness</h3>
+<p class="text-stone-400 mb-8 max-w-3xl leading-relaxed">Published on August 27, 2006, nearly 20 years ago, this early days YouTube clip provides a more in-depth look at authentic mannerisms at the absolute height of the movement.</p>
+<div class="aspect-video max-w-4xl mx-auto bg-black rounded-xl overflow-hidden border border-stone-700 shadow-lg"><div class="post__iframe"><iframe loading="lazy" class="w-full h-full" src="https://www.youtube-nocookie.com/embed/ojVKnQdhawE?si=yUOlmgy3yY96K4Nq" title="2006 documentary footage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></div>
+</div>
+</div>
+</section>
+<!-- Modern State -->
+<section id="modern" class="py-24 bg-nobel-cream relative border-b border-stone-200">
+<div class="container mx-auto px-6 max-w-6xl animate-on-scroll">
+<div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+<div>
+<h2 class="font-serif text-4xl md:text-5xl mb-6 text-stone-900">The Modern State of Wiggerdom</h2>
+<p class="text-lg text-stone-600 mb-6 leading-relaxed">Today, Wigger is almost a state of mind. It is now considered "cool" in many circles to embody the persona, although modern practitioners are often more "Wigga's" merely emulating the Old Guard Wiggers of the 1990s and 2000s rather than organically developing the traits.</p>
+<p class="text-lg text-stone-600 mb-6 leading-relaxed">The aesthetic has even cross-pollinated into extreme music. There is now an entire subgenre of Deathcore called <strong class="text-stone-900">Wigger Slam; </strong>a trashier aesthetic built directly upon the heavy, rhythmic breakdowns of Slam Metal.</p>
+</div>
+<div class="aspect-video bg-black rounded-xl overflow-hidden border-4 border-stone-900 shadow-xl"><div class="post__iframe"><iframe loading="lazy" class="w-full h-full" src="https://www.youtube-nocookie.com/embed/videoseries?si=Jmt88VQewb9uIVRR&amp;list=PLNv5x_Eq76HzO1iSTFKjYzjOwxeauROZi" title="Wigger Slam Playlist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></div>
+</div>
+</div>
+</section>
+<!-- Interactive Explorer -->
+<section id="explorer" class="py-24 bg-white">
+<div class="container mx-auto px-6 max-w-5xl animate-on-scroll">
+<div class="text-center mb-16">
+<h2 class="font-serif text-4xl md:text-5xl mb-4 text-stone-900">Scale Explorer</h2>
+<p class="text-stone-500">Interact with the 25-point scale below to view corresponding classifications and variable intensities.</p>
+</div>
+<div class="bg-stone-50 p-8 md:p-12 rounded-2xl border border-stone-200 shadow-sm"><!-- Slider Control -->
+<div class="mb-12">
+<div class="flex justify-between text-xs font-bold text-stone-400 mb-4 font-mono">Tier 1Tier 2Tier 3Tier 4Tier 5</div>
+<input type="range" id="scale-slider" min="1" max="25" value="13" class="w-full" oninput="updateDashboard(this.value)">
+<div class="text-center mt-6"><span class="text-sm font-bold text-stone-500 uppercase tracking-widest">Current Score:</span> <span id="score-display" class="text-3xl font-serif font-bold text-nobel-red ml-2">13</span></div>
+</div>
+<!-- Dynamic Data Display -->
+<div class="grid grid-cols-1 md:grid-cols-2 gap-12">
+<div>
+<h3 id="tier-title" class="font-serif text-2xl font-bold text-stone-900 mb-3 transition-all">SoundCloud Rapper</h3>
+<p id="tier-desc" class="text-stone-600 leading-relaxed mb-6 h-24">Visible integration of aesthetic markers. Occasional use of regional vernacular. Noticeable presence in localized retail environments.</p>
+</div>
+<div class="space-y-5"><!-- Variable Bars -->
+<div class="flex items-center gap-4">
+<div class="w-12 text-xs font-bold text-stone-500">NWAL</div>
+<div class="flex-1 h-2 bg-stone-200 rounded-full overflow-hidden">
+<div id="bar-nwal" class="h-full bg-stone-800 transition-all duration-500" style="width: 50%;"></div>
+</div>
+</div>
+<div class="flex items-center gap-4">
+<div class="w-12 text-xs font-bold text-stone-500">WEC</div>
+<div class="flex-1 h-2 bg-stone-200 rounded-full overflow-hidden">
+<div id="bar-wec" class="h-full bg-stone-800 transition-all duration-500" style="width: 40%;"></div>
+</div>
+</div>
+<div class="flex items-center gap-4">
+<div class="w-12 text-xs font-bold text-stone-500">BSA</div>
+<div class="flex-1 h-2 bg-stone-200 rounded-full overflow-hidden">
+<div id="bar-bsa" class="h-full bg-stone-800 transition-all duration-500" style="width: 60%;"></div>
+</div>
+</div>
+<div class="flex items-center gap-4">
+<div class="w-12 text-xs font-bold text-stone-500">FFP</div>
+<div class="flex-1 h-2 bg-stone-200 rounded-full overflow-hidden">
+<div id="bar-ffp" class="h-full bg-nobel-gold transition-all duration-500" style="width: 30%;"></div>
+</div>
+</div>
+</div>
 </div>
 </div>
 </div>
 </section>
-<!-- Results -->
-<section id="results" class="py-24 bg-white relative">
-<div class="container mx-auto px-6">
-<div class="grid grid-cols-1 lg:grid-cols-12 gap-12">
-<div class="lg:col-span-8 animate-on-scroll">
-<div class="p-8 bg-stone-900 text-stone-100 rounded-xl my-8 border border-stone-800 shadow-2xl">
-<h3 class="font-serif text-3xl text-white mb-6">WiggerFactor Distribution</h3>
-<div id="rankings-chart" class="space-y-3"><!-- Chart Items injected via JS --></div>
-</div>
-</div>
-<div class="lg:col-span-4 flex flex-col justify-center animate-on-scroll">
-<h3 class="font-serif text-3xl mb-4 text-stone-900">The Findings</h3>
-<p class="text-stone-600 leading-relaxed mb-6">Our research indicates a high correlation between fast food establishments and high WiggerFactor scores.</p>
-</div>
-</div>
-</div>
-</section>
-<!-- Contribute -->
-<section id="contribute" class="py-24 bg-stone-900 text-white text-center">
-<div class="container mx-auto px-6">
-<h2 class="font-serif text-4xl md:text-6xl mb-8">Join the Research</h2>
-<div class="flex justify-center gap-6"><a href="https://docs.google.com/forms/d/e/1FAIpQLSd3H9Iq86rqjDnYb471br7DDzhWLfwx_9GZNdX6VOsHlp-8Vw/viewform?usp=share_link&amp;ouid=107575648524359116699" target="_blank" class="px-8 py-4 bg-red-600 rounded-lg font-bold hover:bg-red-700 transition-colors" rel="noopener">Submit Feedback</a></div>
-</div>
-</section>
-<footer class="bg-white text-stone-600 py-16 border-t border-stone-200">
-<div class="container mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-8">
+<footer class="bg-stone-900 text-stone-400 py-16">
+<div class="container mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-8 max-w-6xl">
 <div class="text-center md:text-left">
-<div class="font-serif font-bold text-2xl mb-2 tracking-wider text-stone-900">CRSI</div>
-<p class="text-xs max-w-sm">Clouty Skies Research Institute. Dedicated to the documentation of suburban cultural phenomena.</p>
+<div class="font-serif font-bold text-2xl mb-2 tracking-wider text-white">CRSI</div>
+<p class="text-xs max-w-sm">Clouty Skies Research Institute. Dedicated to Investigating what Mainstream Academia is TOO AFRAID to.</p>
 </div>
-<div class="flex flex-wrap justify-center gap-6 text-sm font-bold uppercase tracking-widest text-stone-500"><a href="#about" class="hover:text-red-600 transition-colors">The Metric</a> <a href="#data" class="hover:text-red-600 transition-colors">Data Points</a> <a href="#results" class="hover:text-red-600 transition-colors">Results</a> <a href="https://docs.google.com/forms/d/e/1FAIpQLSd3H9Iq86rqjDnYb471br7DDzhWLfwx_9GZNdX6VOsHlp-8Vw/viewform?usp=share_link&amp;ouid=107575648524359116699" target="_blank" rel="noopener noreferrer" class="hover:text-red-600 transition-colors"> Contribute </a> <a href="mailto:contact@clouty-skies.com" class="hover:text-red-600 transition-colors">Contact</a></div>
+<div class="flex flex-wrap justify-center gap-6 text-sm font-bold uppercase tracking-widest text-stone-500"><a href="https://docs.google.com/forms/d/e/1FAIpQLSd3H9Iq86rqjDnYb471br7DDzhWLfwx_9GZNdX6VOsHlp-8Vw/viewform?usp=share_link&amp;ouid=107575648524359116699" target="_blank" rel="noopener noreferrer" class="hover:text-nobel-red transition-colors"> Submit Field Data </a> <a href="mailto:contact@clouty-skies.com" class="hover:text-nobel-red transition-colors">Contact</a></div>
 </div>
-<div class="text-center mt-12 text-[10px] text-stone-400">© 2024 Clouty Skies Research Institute. All rights reserved.</div>
-</footer></main><!-- Interactive Scripts -->
-<p>
+<div class="text-center mt-12 text-[10px] text-stone-600 uppercase tracking-widest">© 2026 Clouty Skies Research Institute. All rights reserved.</div>
+</footer></main><!-- Tailwind CSS -->
+<script src="https://cdn.tailwindcss.com"></script>
+<!-- Icons -->
+<script src="https://unpkg.com/lucide@latest"></script>
+<!-- Configuration & Custom CSS -->
 <script>
-        lucide.createIcons();
+	tailwind.config = {
+		theme: {
+			extend: {
+				fontFamily: {
+					serif: ['"Playfair Display"', 'Georgia', 'serif'],
+					sans: ['"Inter"', 'system-ui', 'sans-serif'],
+				},
+				colors: {
+					nobel: {
+						gold: '#C5A059',
+						dark: '#1a1a1a',
+						cream: '#F9F8F4',
+						red: '#FF0000',
+						yellow: '#FFFF00',
+					}
+				}
+			}
+		}
+	}
+</script>
+<!-- Interactive Logic & Animations -->
+<script>
+	// Initialize Icons
+	lucide.createIcons();
 
-        // Tabs
-        const tabData = {
-            'NWAL': { title: "Natural Wigger Appearance Likelihood", desc: "Quantifies the likelihood of an organic encounter in a public setting.", icon: "👀" },
-            'WEC': { title: "Wigger Employment Chance", desc: "Likelihood of employment within specific occupations.", icon: "👔" },
-            'BSA': { title: "Bluetooth Speaker Allowance", desc: "Tolerance for public music broadcasting.", icon: "🔊" },
-            'FFP': { title: "Free Food/Drink Probability", desc: "Likelihood of complimentary consumables.", icon: "🥤" }
-        };
+	// Scroll Animations Observer
+	const observer = new IntersectionObserver((entries) => {
+		entries.forEach(entry => {
+			if (entry.isIntersecting) {
+				entry.target.classList.add('visible');
+			}
+		});
+	}, { threshold: 0.15 });
 
-        function switchTab(key) {
-            document.querySelectorAll('.tab-btn').forEach(btn => {
-                if(btn.dataset.tab === key) {
-                    btn.className = "tab-btn px-4 py-2 rounded-full font-bold text-sm tracking-widest transition-all duration-300 bg-red-600 text-white shadow-md transform scale-105";
-                } else {
-                    btn.className = "tab-btn px-4 py-2 rounded-full font-bold text-sm tracking-widest transition-all duration-300 bg-stone-100 text-stone-500 hover:bg-stone-200";
-                }
-            });
-            const data = tabData[key];
-            const container = document.getElementById('tab-content-container');
-            container.style.opacity = '0';
-            setTimeout(() => {
-                document.getElementById('tab-icon').textContent = data.icon;
-                document.getElementById('tab-title').textContent = data.title;
-                document.getElementById('tab-desc').textContent = data.desc;
-                container.style.opacity = '1';
-            }, 300);
-        }
+	document.querySelectorAll('.animate-on-scroll').forEach(el => observer.observe(el));
 
-        // Attach event listeners after DOM load to ensure buttons exist
-        document.addEventListener('DOMContentLoaded', () => {
-             const tabs = document.querySelectorAll('.tab-btn');
-             tabs.forEach(tab => {
-                 tab.addEventListener('click', (e) => {
-                     const key = e.target.getAttribute('data-tab');
-                     if (key) switchTab(key);
-                 });
-             });
-        });
+	// Interactive Scale Logic
+	const tierData = [
+		{
+			max: 5,
+			title: "Regular Person",
+			desc: "Baseline demographic. Minimal to no adoption of external cultural markers. Geographic isolation remains intact.",
+			bars: { nwal: '10%', wec: '5%', bsa: '0%', ffp: '0%' }
+		},
+		{
+			max: 10,
+			title: "Low Risk Individual",
+			desc: "Passive consumption of media influences aesthetic choices marginally. Low probability of organic field encounters.",
+			bars: { nwal: '25%', wec: '15%', bsa: '10%', ffp: '5%' }
+		},
+		{
+			max: 15,
+			title: "SoundCloud Rapper",
+			desc: "Visible integration of aesthetic markers. Occasional use of regional vernacular. Noticeable presence in localized retail environments.",
+			bars: { nwal: '50%', wec: '40%', bsa: '60%', ffp: '30%' }
+		},
+		{
+			max: 20,
+			title: "Your Schizophrenic White Uncle",
+			desc: "High commitment to the persona. Frequent employment in fast-casual dining or localized retail. High likelihood of public audio broadcasting.",
+			bars: { nwal: '80%', wec: '75%', bsa: '90%', ffp: '65%' }
+		},
+		{
+			max: 25,
+			title: "WiggerMaxxing",
+			desc: "Peak WiggerFactor. Complete integration of aesthetic and linguistic markers. Extremely high probability of complimentary consumables via networking.",
+			bars: { nwal: '100%', wec: '95%', bsa: '100%', ffp: '90%' }
+		}
+	];
 
-        // Chart Data
-        const chartData = [
-            { name: "White Castle Worker", score: 22, color: "#047857" },
-            { name: "Failed Rapper", score: 22, color: "#059669" },
-            { name: "Fast Food Place", score: 22, color: "#10b981" },
-            { name: "Gas Station Worker", score: 21, color: "#34d399" },
-            { name: "Basketball Court", score: 20, color: "#6ee7b7" },
-        ];
+	function updateDashboard(value) {
+		document.getElementById('score-display').textContent = value;
+		
+		// Find appropriate tier
+		let currentTier = tierData[0];
+		for(let i = 0; i < tierData.length; i++) {
+			if(value <= tierData[i].max) {
+				currentTier = tierData[i];
+				break;
+			}
+		}
 
-        const chartContainer = document.getElementById('rankings-chart');
-        chartData.forEach((item, index) => {
-            chartContainer.innerHTML += `
-                <div class="flex items-center gap-4 group">
-                    <div class="w-40 text-right text-xs font-bold text-stone-400 uppercase tracking-tight">${item.name}</div>
-                    <div class="flex-1 h-6 bg-stone-800 rounded-sm overflow-hidden relative">
-                        <div class="bar-fill h-full absolute left-0 top-0" style="background-color: ${item.color}; transition-delay: ${index * 0.1}s;" data-width="${(item.score / 25) * 100}%"></div>
-                    </div>
-                    <div class="w-8 font-mono text-sm font-bold text-[#C5A059]">${item.score}</div>
-                </div>`;
-        });
+		// Update Text
+		document.getElementById('tier-title').textContent = currentTier.title;
+		document.getElementById('tier-desc').textContent = currentTier.desc;
 
-        // Animations
-        const observer = new IntersectionObserver((entries) => {
-            entries.forEach(entry => {
-                if (entry.isIntersecting) {
-                    if (entry.target.id === 'rankings-chart') {
-                        document.querySelectorAll('.bar-fill').forEach(bar => bar.style.width = bar.dataset.width);
-                    } else {
-                        entry.target.classList.add('visible');
-                    }
-                }
-            });
-        }, { threshold: 0.2 });
-        
-        observer.observe(document.getElementById('rankings-chart'));
-        document.querySelectorAll('.animate-on-scroll').forEach(el => observer.observe(el));
-    </script>
-</p>
+		// Update Bars
+		document.getElementById('bar-nwal').style.width = currentTier.bars.nwal;
+		document.getElementById('bar-wec').style.width = currentTier.bars.wec;
+		document.getElementById('bar-bsa').style.width = currentTier.bars.bsa;
+		document.getElementById('bar-ffp').style.width = currentTier.bars.ffp;
+	}
+
+	// Initialize dashboard on load
+	updateDashboard(13);
+</script>
             ]]>
         </content>
     </entry>
@@ -605,7 +665,7 @@
         <link href="https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute/introducing-the-clouty-skies-research-institute/"/>
         <id>https://TheCloutySkies.github.io/Clouty-Skies-Research-Institute/introducing-the-clouty-skies-research-institute/</id>
 
-        <updated>2025-12-04T23:20:39-08:00</updated>
+        <updated>2025-12-05T00:20:39-07:00</updated>
             <summary type="html">
                 <![CDATA[
                     About the Clouty Skies Research Institute The Clouty Skies Research Institute is a data-driven platform dedicated to publishing structured, transparent&hellip;
