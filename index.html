@@ -4,7 +4,7 @@
     if (!document.querySelector('.pcb')) {
         return;
     }
-
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     var cbConfig = {
         behaviour: document.querySelector('.pcb').getAttribute('data-behaviour'),
         behaviourLink: document.querySelector('.pcb').getAttribute('data-behaviour-link'),
